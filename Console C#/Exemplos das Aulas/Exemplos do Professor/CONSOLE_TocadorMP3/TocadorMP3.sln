@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TocadorMP3", "TocadorMP3\TocadorMP3.csproj", "{4D269E36-42F5-4284-B196-4707EF716359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D269E36-42F5-4284-B196-4707EF716359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D269E36-42F5-4284-B196-4707EF716359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D269E36-42F5-4284-B196-4707EF716359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D269E36-42F5-4284-B196-4707EF716359}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE2D995F-4EA2-4F56-8774-52229BE17AD6}
+	EndGlobalSection
+EndGlobal

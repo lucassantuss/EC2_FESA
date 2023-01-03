@@ -1,0 +1,11 @@
+C:\eduardo\EC-II\Formularios\Formularios\bin\Debug\Formularios.exe.config
+C:\eduardo\EC-II\Formularios\Formularios\bin\Debug\Formularios.exe
+C:\eduardo\EC-II\Formularios\Formularios\bin\Debug\Formularios.pdb
+C:\eduardo\EC-II\Formularios\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\eduardo\EC-II\Formularios\Formularios\obj\Debug\Formularios.Form1.resources
+C:\eduardo\EC-II\Formularios\Formularios\obj\Debug\Formularios.frSobre.resources
+C:\eduardo\EC-II\Formularios\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\eduardo\EC-II\Formularios\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\eduardo\EC-II\Formularios\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\eduardo\EC-II\Formularios\Formularios\obj\Debug\Formularios.exe
+C:\eduardo\EC-II\Formularios\Formularios\obj\Debug\Formularios.pdb

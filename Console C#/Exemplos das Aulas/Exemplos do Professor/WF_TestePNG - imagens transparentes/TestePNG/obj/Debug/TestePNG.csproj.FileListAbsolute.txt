@@ -1,0 +1,19 @@
+W:\Professores\Prof. Eduardo\2017-S2\EC-2 - Algoritmos II\TestePNG\TestePNG\bin\Debug\TestePNG.exe.config
+W:\Professores\Prof. Eduardo\2017-S2\EC-2 - Algoritmos II\TestePNG\TestePNG\bin\Debug\TestePNG.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-2 - Algoritmos II\TestePNG\TestePNG\bin\Debug\TestePNG.pdb
+W:\Professores\Prof. Eduardo\2017-S2\EC-2 - Algoritmos II\TestePNG\TestePNG\obj\Debug\TestePNG.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-2 - Algoritmos II\TestePNG\TestePNG\obj\Debug\TestePNG.Form1.resources
+W:\Professores\Prof. Eduardo\2017-S2\EC-2 - Algoritmos II\TestePNG\TestePNG\obj\Debug\TestePNG.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2017-S2\EC-2 - Algoritmos II\TestePNG\TestePNG\obj\Debug\TestePNG.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-2 - Algoritmos II\TestePNG\TestePNG\obj\Debug\TestePNG.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-2 - Algoritmos II\TestePNG\TestePNG\obj\Debug\TestePNG.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_TestePNG - imagens transparentes\TestePNG\bin\Debug\TestePNG.exe.config
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_TestePNG - imagens transparentes\TestePNG\bin\Debug\TestePNG.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_TestePNG - imagens transparentes\TestePNG\bin\Debug\TestePNG.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_TestePNG - imagens transparentes\TestePNG\obj\Debug\TestePNG.csprojAssemblyReference.cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_TestePNG - imagens transparentes\TestePNG\obj\Debug\TestePNG.Form1.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_TestePNG - imagens transparentes\TestePNG\obj\Debug\TestePNG.Properties.Resources.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_TestePNG - imagens transparentes\TestePNG\obj\Debug\TestePNG.csproj.GenerateResource.cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_TestePNG - imagens transparentes\TestePNG\obj\Debug\TestePNG.csproj.CoreCompileInputs.cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_TestePNG - imagens transparentes\TestePNG\obj\Debug\TestePNG.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_TestePNG - imagens transparentes\TestePNG\obj\Debug\TestePNG.pdb

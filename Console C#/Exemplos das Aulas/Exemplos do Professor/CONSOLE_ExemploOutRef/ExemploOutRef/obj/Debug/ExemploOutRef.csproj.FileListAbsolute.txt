@@ -1,0 +1,13 @@
+c:\eduardo\EC2\ExemploOutRef\ExemploOutRef\bin\Debug\ExemploOutRef.exe.config
+c:\eduardo\EC2\ExemploOutRef\ExemploOutRef\bin\Debug\ExemploOutRef.exe
+c:\eduardo\EC2\ExemploOutRef\ExemploOutRef\bin\Debug\ExemploOutRef.pdb
+c:\eduardo\EC2\ExemploOutRef\ExemploOutRef\obj\Debug\ExemploOutRef.csproj.CoreCompileInputs.cache
+c:\eduardo\EC2\ExemploOutRef\ExemploOutRef\obj\Debug\ExemploOutRef.exe
+c:\eduardo\EC2\ExemploOutRef\ExemploOutRef\obj\Debug\ExemploOutRef.pdb
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\ExemploOutRef\ExemploOutRef\bin\Debug\ExemploOutRef.exe.config
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\ExemploOutRef\ExemploOutRef\bin\Debug\ExemploOutRef.exe
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\ExemploOutRef\ExemploOutRef\bin\Debug\ExemploOutRef.pdb
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\ExemploOutRef\ExemploOutRef\obj\Debug\ExemploOutRef.csprojAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\ExemploOutRef\ExemploOutRef\obj\Debug\ExemploOutRef.csproj.CoreCompileInputs.cache
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\ExemploOutRef\ExemploOutRef\obj\Debug\ExemploOutRef.exe
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\ExemploOutRef\ExemploOutRef\obj\Debug\ExemploOutRef.pdb

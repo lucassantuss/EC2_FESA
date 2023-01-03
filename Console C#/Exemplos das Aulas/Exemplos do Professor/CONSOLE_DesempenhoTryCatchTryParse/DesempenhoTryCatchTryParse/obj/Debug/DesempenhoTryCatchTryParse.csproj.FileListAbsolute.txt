@@ -1,0 +1,14 @@
+c:\eduardo\EC2\DesempenhoTryCatchTryParse\DesempenhoTryCatchTryParse\bin\Debug\DesempenhoTryCatchTryParse.exe.config
+c:\eduardo\EC2\DesempenhoTryCatchTryParse\DesempenhoTryCatchTryParse\bin\Debug\DesempenhoTryCatchTryParse.exe
+c:\eduardo\EC2\DesempenhoTryCatchTryParse\DesempenhoTryCatchTryParse\bin\Debug\DesempenhoTryCatchTryParse.pdb
+c:\eduardo\EC2\DesempenhoTryCatchTryParse\DesempenhoTryCatchTryParse\obj\Debug\DesempenhoTryCatchTryParse.csprojAssemblyReference.cache
+c:\eduardo\EC2\DesempenhoTryCatchTryParse\DesempenhoTryCatchTryParse\obj\Debug\DesempenhoTryCatchTryParse.csproj.CoreCompileInputs.cache
+c:\eduardo\EC2\DesempenhoTryCatchTryParse\DesempenhoTryCatchTryParse\obj\Debug\DesempenhoTryCatchTryParse.exe
+c:\eduardo\EC2\DesempenhoTryCatchTryParse\DesempenhoTryCatchTryParse\obj\Debug\DesempenhoTryCatchTryParse.pdb
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\DesempenhoTryCatchTryParse\DesempenhoTryCatchTryParse\bin\Debug\DesempenhoTryCatchTryParse.exe.config
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\DesempenhoTryCatchTryParse\DesempenhoTryCatchTryParse\bin\Debug\DesempenhoTryCatchTryParse.exe
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\DesempenhoTryCatchTryParse\DesempenhoTryCatchTryParse\bin\Debug\DesempenhoTryCatchTryParse.pdb
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\DesempenhoTryCatchTryParse\DesempenhoTryCatchTryParse\obj\Debug\DesempenhoTryCatchTryParse.csprojAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\DesempenhoTryCatchTryParse\DesempenhoTryCatchTryParse\obj\Debug\DesempenhoTryCatchTryParse.csproj.CoreCompileInputs.cache
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\DesempenhoTryCatchTryParse\DesempenhoTryCatchTryParse\obj\Debug\DesempenhoTryCatchTryParse.exe
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\DesempenhoTryCatchTryParse\DesempenhoTryCatchTryParse\obj\Debug\DesempenhoTryCatchTryParse.pdb

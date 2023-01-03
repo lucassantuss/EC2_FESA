@@ -1,0 +1,7 @@
+C:\eduardo\EC-II\ManipulaTeclas_Console\ManipulaTeclas_Console\bin\Debug\ManipulaTeclas_Console.exe.config
+C:\eduardo\EC-II\ManipulaTeclas_Console\ManipulaTeclas_Console\bin\Debug\ManipulaTeclas_Console.exe
+C:\eduardo\EC-II\ManipulaTeclas_Console\ManipulaTeclas_Console\bin\Debug\ManipulaTeclas_Console.pdb
+C:\eduardo\EC-II\ManipulaTeclas_Console\ManipulaTeclas_Console\obj\Debug\ManipulaTeclas_Console.csprojAssemblyReference.cache
+C:\eduardo\EC-II\ManipulaTeclas_Console\ManipulaTeclas_Console\obj\Debug\ManipulaTeclas_Console.csproj.CoreCompileInputs.cache
+C:\eduardo\EC-II\ManipulaTeclas_Console\ManipulaTeclas_Console\obj\Debug\ManipulaTeclas_Console.exe
+C:\eduardo\EC-II\ManipulaTeclas_Console\ManipulaTeclas_Console\obj\Debug\ManipulaTeclas_Console.pdb

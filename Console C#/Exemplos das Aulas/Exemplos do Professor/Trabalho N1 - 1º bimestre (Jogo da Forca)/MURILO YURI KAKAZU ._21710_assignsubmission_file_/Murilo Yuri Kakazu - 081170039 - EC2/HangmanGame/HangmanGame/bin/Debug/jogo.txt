@@ -1,0 +1,38 @@
+﻿P:aristoteles
+D:lógica
+D:grécia
+D:filosofia
+P:jornada nas estrelas
+D:enterprise
+D:vida longa e prospera
+D:spock
+P:ardiloso
+D:manhoso
+D:esperto
+P:balburdia
+D:baderna
+D:bagunça
+D:confusão
+P:perene
+D:que dura muito
+D:imortal
+P:cordialidade
+D:ação de expressar afeto
+D:comportamento educado
+D:qualidade de cordial
+P:remoto
+D:antigo
+D:improvável
+P:Insolente
+D:malcriado
+D:desrespeitoso
+D:Petulante
+D:arrogante
+P:embuste
+D:logro
+D:engodo
+D:mentira com intuito de enganar uma pessoa
+P:Pudim
+D:doce
+D:amarelo
+D:leite condensado

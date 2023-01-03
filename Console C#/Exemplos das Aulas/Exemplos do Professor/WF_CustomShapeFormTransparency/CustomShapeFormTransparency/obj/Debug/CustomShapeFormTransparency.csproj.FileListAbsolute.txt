@@ -1,0 +1,26 @@
+C:\Users\pro6761\Downloads\CustomShapeFormTransparency\CustomShapeFormTransparency\bin\Debug\CustomShapeFormTransparency.exe
+C:\Users\pro6761\Downloads\CustomShapeFormTransparency\CustomShapeFormTransparency\bin\Debug\CustomShapeFormTransparency.pdb
+C:\Users\pro6761\Downloads\CustomShapeFormTransparency\CustomShapeFormTransparency\obj\Debug\CustomShapeFormTransparency.csprojResolveAssemblyReference.cache
+C:\Users\pro6761\Downloads\CustomShapeFormTransparency\CustomShapeFormTransparency\obj\Debug\CustomShapeFormTransparency.Form1.resources
+C:\Users\pro6761\Downloads\CustomShapeFormTransparency\CustomShapeFormTransparency\obj\Debug\CustomShapeFormTransparency.Properties.Resources.resources
+C:\Users\pro6761\Downloads\CustomShapeFormTransparency\CustomShapeFormTransparency\obj\Debug\CustomShapeFormTransparency.csproj.GenerateResource.Cache
+C:\Users\pro6761\Downloads\CustomShapeFormTransparency\CustomShapeFormTransparency\obj\Debug\CustomShapeFormTransparency.exe
+C:\Users\pro6761\Downloads\CustomShapeFormTransparency\CustomShapeFormTransparency\obj\Debug\CustomShapeFormTransparency.pdb
+W:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\CustomShapeFormTransparency\CustomShapeFormTransparency\bin\Debug\CustomShapeFormTransparency.exe
+W:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\CustomShapeFormTransparency\CustomShapeFormTransparency\bin\Debug\CustomShapeFormTransparency.pdb
+W:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\CustomShapeFormTransparency\CustomShapeFormTransparency\obj\Debug\CustomShapeFormTransparency.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\CustomShapeFormTransparency\CustomShapeFormTransparency\obj\Debug\CustomShapeFormTransparency.Form1.resources
+W:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\CustomShapeFormTransparency\CustomShapeFormTransparency\obj\Debug\CustomShapeFormTransparency.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\CustomShapeFormTransparency\CustomShapeFormTransparency\obj\Debug\CustomShapeFormTransparency.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\CustomShapeFormTransparency\CustomShapeFormTransparency\obj\Debug\CustomShapeFormTransparency.csproj.CoreCompileInputs.cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\CustomShapeFormTransparency\CustomShapeFormTransparency\obj\Debug\CustomShapeFormTransparency.exe
+W:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\CustomShapeFormTransparency\CustomShapeFormTransparency\obj\Debug\CustomShapeFormTransparency.pdb
+W:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_CustomShapeFormTransparency\CustomShapeFormTransparency\bin\Debug\CustomShapeFormTransparency.exe
+W:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_CustomShapeFormTransparency\CustomShapeFormTransparency\bin\Debug\CustomShapeFormTransparency.pdb
+W:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_CustomShapeFormTransparency\CustomShapeFormTransparency\obj\Debug\CustomShapeFormTransparency.csprojAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_CustomShapeFormTransparency\CustomShapeFormTransparency\obj\Debug\CustomShapeFormTransparency.Form1.resources
+W:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_CustomShapeFormTransparency\CustomShapeFormTransparency\obj\Debug\CustomShapeFormTransparency.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_CustomShapeFormTransparency\CustomShapeFormTransparency\obj\Debug\CustomShapeFormTransparency.csproj.GenerateResource.cache
+W:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_CustomShapeFormTransparency\CustomShapeFormTransparency\obj\Debug\CustomShapeFormTransparency.csproj.CoreCompileInputs.cache
+W:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_CustomShapeFormTransparency\CustomShapeFormTransparency\obj\Debug\CustomShapeFormTransparency.exe
+W:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_CustomShapeFormTransparency\CustomShapeFormTransparency\obj\Debug\CustomShapeFormTransparency.pdb

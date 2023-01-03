@@ -1,0 +1,32 @@
+P:ELYSIUM
+D:Exoesqueleto
+D:Base extraterrestre
+D:Dinheiro
+P:STAR WARS
+D:Eu sou seu pai
+D:Estrela da Morte
+D:Luke Skywalker
+P:PROMETHEUS
+D:Colonia
+D:Alien
+D:Ovos
+P:STAR TREK
+D:SPOCK
+D:Herbert Richards
+D:Enterprise
+P:MATRIX
+D:Neo
+D:Morpheus
+D:Trinity
+P:AVATAR
+D:Pessoas Azuis
+D:Pandora
+D:Natureza
+P:ROBOCOP
+D:Policial
+D:Detroit
+D:Nuke
+P:EX MACHINA
+D:Inteligencia Artificial
+D:Caleb
+D:Revolta

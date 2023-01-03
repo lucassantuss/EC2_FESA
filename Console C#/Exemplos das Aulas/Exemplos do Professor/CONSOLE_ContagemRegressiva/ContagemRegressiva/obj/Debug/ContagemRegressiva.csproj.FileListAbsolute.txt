@@ -1,0 +1,35 @@
+W:\Professores\Prof. Eduardo\2016-S1\EC-1\ContagemRegressiva\ContagemRegressiva\bin\Debug\ContagemRegressiva.exe.config
+W:\Professores\Prof. Eduardo\2016-S1\EC-1\ContagemRegressiva\ContagemRegressiva\bin\Debug\ContagemRegressiva.exe
+W:\Professores\Prof. Eduardo\2016-S1\EC-1\ContagemRegressiva\ContagemRegressiva\bin\Debug\ContagemRegressiva.pdb
+W:\Professores\Prof. Eduardo\2016-S1\EC-1\ContagemRegressiva\ContagemRegressiva\obj\Debug\ContagemRegressiva.exe
+W:\Professores\Prof. Eduardo\2016-S1\EC-1\ContagemRegressiva\ContagemRegressiva\obj\Debug\ContagemRegressiva.pdb
+X:\Professores\Prof. Eduardo\2016-S1\EC-1\ContagemRegressiva\ContagemRegressiva\bin\Debug\ContagemRegressiva.exe.config
+X:\Professores\Prof. Eduardo\2016-S1\EC-1\ContagemRegressiva\ContagemRegressiva\obj\Debug\ContagemRegressiva.exe
+X:\Professores\Prof. Eduardo\2016-S1\EC-1\ContagemRegressiva\ContagemRegressiva\obj\Debug\ContagemRegressiva.pdb
+W:\Professores\Prof. Eduardo\2016-S2\EC-1 - Algoritmos I\ContagemRegressiva\ContagemRegressiva\bin\Debug\ContagemRegressiva.exe.config
+W:\Professores\Prof. Eduardo\2016-S2\EC-1 - Algoritmos I\ContagemRegressiva\ContagemRegressiva\obj\Debug\ContagemRegressiva.pdb
+W:\Professores\Prof. Eduardo\2016-S2\EC-1 - Algoritmos I\ContagemRegressiva\ContagemRegressiva\bin\Debug\ContagemRegressiva.exe
+W:\Professores\Prof. Eduardo\2016-S2\EC-1 - Algoritmos I\ContagemRegressiva\ContagemRegressiva\bin\Debug\ContagemRegressiva.pdb
+W:\Professores\Prof. Eduardo\2016-S2\EC-1 - Algoritmos I\ContagemRegressiva\ContagemRegressiva\obj\Debug\ContagemRegressiva.exe
+X:\Professores\Prof. Eduardo\2016-S2\EC-1 - Algoritmos I\ContagemRegressiva\ContagemRegressiva\bin\Debug\ContagemRegressiva.exe.config
+X:\Professores\Prof. Eduardo\2016-S2\EC-1 - Algoritmos I\ContagemRegressiva\ContagemRegressiva\obj\Debug\ContagemRegressiva.exe
+X:\Professores\Prof. Eduardo\2016-S2\EC-1 - Algoritmos I\ContagemRegressiva\ContagemRegressiva\obj\Debug\ContagemRegressiva.pdb
+X:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\ContagemRegressiva\ContagemRegressiva\bin\Debug\ContagemRegressiva.exe.config
+X:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\ContagemRegressiva\ContagemRegressiva\bin\Debug\ContagemRegressiva.exe
+X:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\ContagemRegressiva\ContagemRegressiva\bin\Debug\ContagemRegressiva.pdb
+X:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\ContagemRegressiva\ContagemRegressiva\obj\Debug\ContagemRegressiva.csproj.CoreCompileInputs.cache
+X:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\ContagemRegressiva\ContagemRegressiva\obj\Debug\ContagemRegressiva.exe
+X:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\ContagemRegressiva\ContagemRegressiva\obj\Debug\ContagemRegressiva.pdb
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\CONSOLE_ContagemRegressiva\ContagemRegressiva\bin\Debug\ContagemRegressiva.exe.config
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\CONSOLE_ContagemRegressiva\ContagemRegressiva\bin\Debug\ContagemRegressiva.exe
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\CONSOLE_ContagemRegressiva\ContagemRegressiva\bin\Debug\ContagemRegressiva.pdb
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\CONSOLE_ContagemRegressiva\ContagemRegressiva\obj\Debug\ContagemRegressiva.csprojAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\CONSOLE_ContagemRegressiva\ContagemRegressiva\obj\Debug\ContagemRegressiva.csproj.CoreCompileInputs.cache
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\CONSOLE_ContagemRegressiva\ContagemRegressiva\obj\Debug\ContagemRegressiva.exe
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\CONSOLE_ContagemRegressiva\ContagemRegressiva\obj\Debug\ContagemRegressiva.pdb
+C:\AulaFTT\2020-S1\EC2\Exemplos\CONSOLE_ContagemRegressiva\ContagemRegressiva\bin\Debug\ContagemRegressiva.exe.config
+C:\AulaFTT\2020-S1\EC2\Exemplos\CONSOLE_ContagemRegressiva\ContagemRegressiva\bin\Debug\ContagemRegressiva.exe
+C:\AulaFTT\2020-S1\EC2\Exemplos\CONSOLE_ContagemRegressiva\ContagemRegressiva\bin\Debug\ContagemRegressiva.pdb
+C:\AulaFTT\2020-S1\EC2\Exemplos\CONSOLE_ContagemRegressiva\ContagemRegressiva\obj\Debug\ContagemRegressiva.csprojAssemblyReference.cache
+C:\AulaFTT\2020-S1\EC2\Exemplos\CONSOLE_ContagemRegressiva\ContagemRegressiva\obj\Debug\ContagemRegressiva.exe
+C:\AulaFTT\2020-S1\EC2\Exemplos\CONSOLE_ContagemRegressiva\ContagemRegressiva\obj\Debug\ContagemRegressiva.pdb

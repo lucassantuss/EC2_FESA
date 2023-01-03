@@ -1,0 +1,22 @@
+c:\eduardo\EC2\ExemploFormularios\ExemploFormularios\bin\Debug\ExemploFormularios.exe.config
+c:\eduardo\EC2\ExemploFormularios\ExemploFormularios\bin\Debug\ExemploFormularios.exe
+c:\eduardo\EC2\ExemploFormularios\ExemploFormularios\bin\Debug\ExemploFormularios.pdb
+c:\eduardo\EC2\ExemploFormularios\ExemploFormularios\obj\Debug\ExemploFormularios.csprojAssemblyReference.cache
+c:\eduardo\EC2\ExemploFormularios\ExemploFormularios\obj\Debug\ExemploFormularios.frTelaCalculo.resources
+c:\eduardo\EC2\ExemploFormularios\ExemploFormularios\obj\Debug\ExemploFormularios.frTelaPrincipal.resources
+c:\eduardo\EC2\ExemploFormularios\ExemploFormularios\obj\Debug\ExemploFormularios.Properties.Resources.resources
+c:\eduardo\EC2\ExemploFormularios\ExemploFormularios\obj\Debug\ExemploFormularios.csproj.GenerateResource.cache
+c:\eduardo\EC2\ExemploFormularios\ExemploFormularios\obj\Debug\ExemploFormularios.csproj.CoreCompileInputs.cache
+c:\eduardo\EC2\ExemploFormularios\ExemploFormularios\obj\Debug\ExemploFormularios.exe
+c:\eduardo\EC2\ExemploFormularios\ExemploFormularios\obj\Debug\ExemploFormularios.pdb
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_ExemploFormularios\ExemploFormularios\bin\Debug\ExemploFormularios.exe.config
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_ExemploFormularios\ExemploFormularios\bin\Debug\ExemploFormularios.exe
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_ExemploFormularios\ExemploFormularios\bin\Debug\ExemploFormularios.pdb
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_ExemploFormularios\ExemploFormularios\obj\Debug\ExemploFormularios.csprojAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_ExemploFormularios\ExemploFormularios\obj\Debug\ExemploFormularios.frTelaCalculo.resources
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_ExemploFormularios\ExemploFormularios\obj\Debug\ExemploFormularios.frTelaPrincipal.resources
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_ExemploFormularios\ExemploFormularios\obj\Debug\ExemploFormularios.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_ExemploFormularios\ExemploFormularios\obj\Debug\ExemploFormularios.csproj.GenerateResource.cache
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_ExemploFormularios\ExemploFormularios\obj\Debug\ExemploFormularios.csproj.CoreCompileInputs.cache
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_ExemploFormularios\ExemploFormularios\obj\Debug\ExemploFormularios.exe
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_ExemploFormularios\ExemploFormularios\obj\Debug\ExemploFormularios.pdb

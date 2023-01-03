@@ -1,0 +1,24 @@
+C:\eduardo\EC-II\TrocaDadosEntreTelas\TrocaDadosEntreTelas\bin\Debug\TrocaDadosEntreTelas.exe.config
+C:\eduardo\EC-II\TrocaDadosEntreTelas\TrocaDadosEntreTelas\bin\Debug\TrocaDadosEntreTelas.exe
+C:\eduardo\EC-II\TrocaDadosEntreTelas\TrocaDadosEntreTelas\bin\Debug\TrocaDadosEntreTelas.pdb
+C:\eduardo\EC-II\TrocaDadosEntreTelas\TrocaDadosEntreTelas\obj\Debug\TrocaDadosEntreTelas.csprojAssemblyReference.cache
+C:\eduardo\EC-II\TrocaDadosEntreTelas\TrocaDadosEntreTelas\obj\Debug\TrocaDadosEntreTelas.frTelaA.resources
+C:\eduardo\EC-II\TrocaDadosEntreTelas\TrocaDadosEntreTelas\obj\Debug\TrocaDadosEntreTelas.frTelaB.resources
+C:\eduardo\EC-II\TrocaDadosEntreTelas\TrocaDadosEntreTelas\obj\Debug\TrocaDadosEntreTelas.Properties.Resources.resources
+C:\eduardo\EC-II\TrocaDadosEntreTelas\TrocaDadosEntreTelas\obj\Debug\TrocaDadosEntreTelas.csproj.GenerateResource.cache
+C:\eduardo\EC-II\TrocaDadosEntreTelas\TrocaDadosEntreTelas\obj\Debug\TrocaDadosEntreTelas.csproj.CoreCompileInputs.cache
+C:\eduardo\EC-II\TrocaDadosEntreTelas\TrocaDadosEntreTelas\obj\Debug\TrocaDadosEntreTelas.exe
+C:\eduardo\EC-II\TrocaDadosEntreTelas\TrocaDadosEntreTelas\obj\Debug\TrocaDadosEntreTelas.pdb
+C:\eduardo\EC-II\TrocaDadosEntreTelas\TrocaDadosEntreTelas\obj\Debug\TrocaDadosEntreTelas.frLogin.resources
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_TrocaDadosEntreTelas\TrocaDadosEntreTelas\bin\Debug\TrocaDadosEntreTelas.exe.config
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_TrocaDadosEntreTelas\TrocaDadosEntreTelas\bin\Debug\TrocaDadosEntreTelas.exe
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_TrocaDadosEntreTelas\TrocaDadosEntreTelas\bin\Debug\TrocaDadosEntreTelas.pdb
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_TrocaDadosEntreTelas\TrocaDadosEntreTelas\obj\Debug\TrocaDadosEntreTelas.csprojAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_TrocaDadosEntreTelas\TrocaDadosEntreTelas\obj\Debug\TrocaDadosEntreTelas.frLogin.resources
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_TrocaDadosEntreTelas\TrocaDadosEntreTelas\obj\Debug\TrocaDadosEntreTelas.frTelaA.resources
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_TrocaDadosEntreTelas\TrocaDadosEntreTelas\obj\Debug\TrocaDadosEntreTelas.frTelaB.resources
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_TrocaDadosEntreTelas\TrocaDadosEntreTelas\obj\Debug\TrocaDadosEntreTelas.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_TrocaDadosEntreTelas\TrocaDadosEntreTelas\obj\Debug\TrocaDadosEntreTelas.csproj.GenerateResource.cache
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_TrocaDadosEntreTelas\TrocaDadosEntreTelas\obj\Debug\TrocaDadosEntreTelas.csproj.CoreCompileInputs.cache
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_TrocaDadosEntreTelas\TrocaDadosEntreTelas\obj\Debug\TrocaDadosEntreTelas.exe
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_TrocaDadosEntreTelas\TrocaDadosEntreTelas\obj\Debug\TrocaDadosEntreTelas.pdb

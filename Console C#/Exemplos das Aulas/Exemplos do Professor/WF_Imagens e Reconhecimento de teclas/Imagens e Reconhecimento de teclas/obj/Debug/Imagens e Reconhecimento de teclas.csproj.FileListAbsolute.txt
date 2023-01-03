@@ -1,0 +1,23 @@
+c:\eduardo\EC2\Imagens e Reconhecimento de teclas\Imagens e Reconhecimento de teclas\bin\Debug\Imagens e Reconhecimento de teclas.exe.config
+c:\eduardo\EC2\Imagens e Reconhecimento de teclas\Imagens e Reconhecimento de teclas\bin\Debug\Imagens e Reconhecimento de teclas.exe
+c:\eduardo\EC2\Imagens e Reconhecimento de teclas\Imagens e Reconhecimento de teclas\bin\Debug\Imagens e Reconhecimento de teclas.pdb
+c:\eduardo\EC2\Imagens e Reconhecimento de teclas\Imagens e Reconhecimento de teclas\obj\Debug\Imagens e Reconhecimento de teclas.csprojAssemblyReference.cache
+c:\eduardo\EC2\Imagens e Reconhecimento de teclas\Imagens e Reconhecimento de teclas\obj\Debug\Imagens_e_Reconhecimento_de_teclas.Form1.resources
+c:\eduardo\EC2\Imagens e Reconhecimento de teclas\Imagens e Reconhecimento de teclas\obj\Debug\Imagens_e_Reconhecimento_de_teclas.Properties.Resources.resources
+c:\eduardo\EC2\Imagens e Reconhecimento de teclas\Imagens e Reconhecimento de teclas\obj\Debug\Imagens e Reconhecimento de teclas.csproj.GenerateResource.cache
+c:\eduardo\EC2\Imagens e Reconhecimento de teclas\Imagens e Reconhecimento de teclas\obj\Debug\Imagens e Reconhecimento de teclas.csproj.CoreCompileInputs.cache
+c:\eduardo\EC2\Imagens e Reconhecimento de teclas\Imagens e Reconhecimento de teclas\obj\Debug\Imagens e Reconhecimento de teclas.exe
+c:\eduardo\EC2\Imagens e Reconhecimento de teclas\Imagens e Reconhecimento de teclas\obj\Debug\Imagens e Reconhecimento de teclas.pdb
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_Imagens e Reconhecimento de teclas\Imagens e Reconhecimento de teclas\bin\Debug\Imagens e Reconhecimento de teclas.exe.config
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_Imagens e Reconhecimento de teclas\Imagens e Reconhecimento de teclas\bin\Debug\Imagens e Reconhecimento de teclas.exe
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_Imagens e Reconhecimento de teclas\Imagens e Reconhecimento de teclas\bin\Debug\Imagens e Reconhecimento de teclas.pdb
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_Imagens e Reconhecimento de teclas\Imagens e Reconhecimento de teclas\obj\Debug\Imagens e Reconhecimento de teclas.csprojAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_Imagens e Reconhecimento de teclas\Imagens e Reconhecimento de teclas\obj\Debug\Imagens_e_Reconhecimento_de_teclas.Form1.resources
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_Imagens e Reconhecimento de teclas\Imagens e Reconhecimento de teclas\obj\Debug\Imagens_e_Reconhecimento_de_teclas.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_Imagens e Reconhecimento de teclas\Imagens e Reconhecimento de teclas\obj\Debug\Imagens e Reconhecimento de teclas.csproj.GenerateResource.cache
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_Imagens e Reconhecimento de teclas\Imagens e Reconhecimento de teclas\obj\Debug\Imagens e Reconhecimento de teclas.csproj.CoreCompileInputs.cache
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_Imagens e Reconhecimento de teclas\Imagens e Reconhecimento de teclas\obj\Debug\Imagens e Reconhecimento de teclas.exe
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_Imagens e Reconhecimento de teclas\Imagens e Reconhecimento de teclas\obj\Debug\Imagens e Reconhecimento de teclas.pdb
+C:\Users\081190031\Desktop\Imagens e Reconhecimento de teclas.exe.config
+C:\Users\081190031\Desktop\Imagens e Reconhecimento de teclas.exe
+C:\Users\081190031\Desktop\Imagens e Reconhecimento de teclas.pdb

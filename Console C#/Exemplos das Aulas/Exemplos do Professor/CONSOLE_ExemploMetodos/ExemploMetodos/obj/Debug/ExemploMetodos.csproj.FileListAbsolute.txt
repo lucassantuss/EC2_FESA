@@ -1,0 +1,14 @@
+c:\eduardo\EC2\ExemploMetodos\ExemploMetodos\bin\Debug\ExemploMetodos.exe.config
+c:\eduardo\EC2\ExemploMetodos\ExemploMetodos\bin\Debug\ExemploMetodos.exe
+c:\eduardo\EC2\ExemploMetodos\ExemploMetodos\bin\Debug\ExemploMetodos.pdb
+c:\eduardo\EC2\ExemploMetodos\ExemploMetodos\obj\Debug\ExemploMetodos.csprojAssemblyReference.cache
+c:\eduardo\EC2\ExemploMetodos\ExemploMetodos\obj\Debug\ExemploMetodos.csproj.CoreCompileInputs.cache
+c:\eduardo\EC2\ExemploMetodos\ExemploMetodos\obj\Debug\ExemploMetodos.exe
+c:\eduardo\EC2\ExemploMetodos\ExemploMetodos\obj\Debug\ExemploMetodos.pdb
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\ExemploMetodos\ExemploMetodos\bin\Debug\ExemploMetodos.exe.config
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\ExemploMetodos\ExemploMetodos\bin\Debug\ExemploMetodos.exe
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\ExemploMetodos\ExemploMetodos\bin\Debug\ExemploMetodos.pdb
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\ExemploMetodos\ExemploMetodos\obj\Debug\ExemploMetodos.csprojAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\ExemploMetodos\ExemploMetodos\obj\Debug\ExemploMetodos.csproj.CoreCompileInputs.cache
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\ExemploMetodos\ExemploMetodos\obj\Debug\ExemploMetodos.exe
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\ExemploMetodos\ExemploMetodos\obj\Debug\ExemploMetodos.pdb

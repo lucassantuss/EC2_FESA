@@ -1,0 +1,7 @@
+c:\eduardo\EC2\Exemplo_Structs_vetor\Exemplo_Structs_vetor\bin\Debug\Exemplo_Structs_vetor.exe.config
+c:\eduardo\EC2\Exemplo_Structs_vetor\Exemplo_Structs_vetor\bin\Debug\Exemplo_Structs_vetor.exe
+c:\eduardo\EC2\Exemplo_Structs_vetor\Exemplo_Structs_vetor\bin\Debug\Exemplo_Structs_vetor.pdb
+c:\eduardo\EC2\Exemplo_Structs_vetor\Exemplo_Structs_vetor\obj\Debug\Exemplo_Structs_vetor.csprojAssemblyReference.cache
+c:\eduardo\EC2\Exemplo_Structs_vetor\Exemplo_Structs_vetor\obj\Debug\Exemplo_Structs_vetor.csproj.CoreCompileInputs.cache
+c:\eduardo\EC2\Exemplo_Structs_vetor\Exemplo_Structs_vetor\obj\Debug\Exemplo_Structs_vetor.exe
+c:\eduardo\EC2\Exemplo_Structs_vetor\Exemplo_Structs_vetor\obj\Debug\Exemplo_Structs_vetor.pdb

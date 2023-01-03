@@ -1,0 +1,14 @@
+c:\eduardo\EC2\CalculoComDadas\CalculoComDadas\bin\Debug\CalculoComDadas.exe.config
+c:\eduardo\EC2\CalculoComDadas\CalculoComDadas\bin\Debug\CalculoComDadas.exe
+c:\eduardo\EC2\CalculoComDadas\CalculoComDadas\bin\Debug\CalculoComDadas.pdb
+c:\eduardo\EC2\CalculoComDadas\CalculoComDadas\obj\Debug\CalculoComDadas.csprojAssemblyReference.cache
+c:\eduardo\EC2\CalculoComDadas\CalculoComDadas\obj\Debug\CalculoComDadas.csproj.CoreCompileInputs.cache
+c:\eduardo\EC2\CalculoComDadas\CalculoComDadas\obj\Debug\CalculoComDadas.exe
+c:\eduardo\EC2\CalculoComDadas\CalculoComDadas\obj\Debug\CalculoComDadas.pdb
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\CONSOLE_CalculoComDatas\CalculoComDadas\bin\Debug\CalculoComDadas.exe.config
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\CONSOLE_CalculoComDatas\CalculoComDadas\bin\Debug\CalculoComDadas.exe
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\CONSOLE_CalculoComDatas\CalculoComDadas\bin\Debug\CalculoComDadas.pdb
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\CONSOLE_CalculoComDatas\CalculoComDadas\obj\Debug\CalculoComDadas.csprojAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\CONSOLE_CalculoComDatas\CalculoComDadas\obj\Debug\CalculoComDadas.csproj.CoreCompileInputs.cache
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\CONSOLE_CalculoComDatas\CalculoComDadas\obj\Debug\CalculoComDadas.exe
+X:\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\CONSOLE_CalculoComDatas\CalculoComDadas\obj\Debug\CalculoComDadas.pdb

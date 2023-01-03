@@ -1,0 +1,15 @@
+C:\Users\Lucas\Desktop\N2 - Algoritmos\TRABALHO\ATIVIDADE_1\N2_QUIZ\N2_QUIZ\bin\Debug\N2_QUIZ.exe.config
+C:\Users\Lucas\Desktop\N2 - Algoritmos\TRABALHO\ATIVIDADE_1\N2_QUIZ\N2_QUIZ\bin\Debug\N2_QUIZ.exe
+C:\Users\Lucas\Desktop\N2 - Algoritmos\TRABALHO\ATIVIDADE_1\N2_QUIZ\N2_QUIZ\bin\Debug\N2_QUIZ.pdb
+C:\Users\Lucas\Desktop\N2 - Algoritmos\TRABALHO\ATIVIDADE_1\N2_QUIZ\N2_QUIZ\obj\Debug\N2_QUIZ.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\N2 - Algoritmos\TRABALHO\ATIVIDADE_1\N2_QUIZ\N2_QUIZ\obj\Debug\N2_QUIZ.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\N2 - Algoritmos\TRABALHO\ATIVIDADE_1\N2_QUIZ\N2_QUIZ\obj\Debug\N2_QUIZ.exe
+C:\Users\Lucas\Desktop\N2 - Algoritmos\TRABALHO\ATIVIDADE_1\N2_QUIZ\N2_QUIZ\obj\Debug\N2_QUIZ.pdb
+E:\GITHUB\FESA\EC2\Console C#\N2 - Quiz\N2_QUIZ\N2_QUIZ\bin\Debug\N2_QUIZ.exe.config
+E:\GITHUB\FESA\EC2\Console C#\N2 - Quiz\N2_QUIZ\N2_QUIZ\bin\Debug\N2_QUIZ.exe
+E:\GITHUB\FESA\EC2\Console C#\N2 - Quiz\N2_QUIZ\N2_QUIZ\bin\Debug\N2_QUIZ.pdb
+E:\GITHUB\FESA\EC2\Console C#\N2 - Quiz\N2_QUIZ\N2_QUIZ\obj\Debug\N2_QUIZ.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC2\Console C#\N2 - Quiz\N2_QUIZ\N2_QUIZ\obj\Debug\N2_QUIZ.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC2\Console C#\N2 - Quiz\N2_QUIZ\N2_QUIZ\obj\Debug\N2_QUIZ.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC2\Console C#\N2 - Quiz\N2_QUIZ\N2_QUIZ\obj\Debug\N2_QUIZ.exe
+E:\GITHUB\FESA\EC2\Console C#\N2 - Quiz\N2_QUIZ\N2_QUIZ\obj\Debug\N2_QUIZ.pdb

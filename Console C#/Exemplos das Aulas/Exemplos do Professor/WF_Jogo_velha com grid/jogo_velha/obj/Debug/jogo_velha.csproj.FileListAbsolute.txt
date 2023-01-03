@@ -1,0 +1,84 @@
+c:\eduardo\jogo_velha\jogo_velha\bin\Debug\jogo_velha.exe.config
+c:\eduardo\jogo_velha\jogo_velha\bin\Debug\jogo_velha.exe
+c:\eduardo\jogo_velha\jogo_velha\bin\Debug\jogo_velha.pdb
+c:\eduardo\jogo_velha\jogo_velha\obj\Debug\jogo_velha.csprojResolveAssemblyReference.cache
+c:\eduardo\jogo_velha\jogo_velha\obj\Debug\jogo_velha.Form1.resources
+c:\eduardo\jogo_velha\jogo_velha\obj\Debug\jogo_velha.Properties.Resources.resources
+c:\eduardo\jogo_velha\jogo_velha\obj\Debug\jogo_velha.csproj.GenerateResource.Cache
+c:\eduardo\jogo_velha\jogo_velha\obj\Debug\jogo_velha.exe
+c:\eduardo\jogo_velha\jogo_velha\obj\Debug\jogo_velha.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\bin\Debug\jogo_velha.exe.config
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\bin\Debug\jogo_velha.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\bin\Debug\jogo_velha.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.csprojResolveAssemblyReference.cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.Form1.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.Properties.Resources.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.csproj.GenerateResource.Cache
+X:\Professores\Prof. Eduardo\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\bin\Debug\jogo_velha.exe.config
+X:\Professores\Prof. Eduardo\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.exe
+X:\Professores\Prof. Eduardo\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.pdb
+X:\Professores\Prof. Eduardo\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\bin\Debug\jogo_velha.exe
+X:\Professores\Prof. Eduardo\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\bin\Debug\jogo_velha.pdb
+X:\Professores\Prof. Eduardo\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.Form1.resources
+X:\Professores\Prof. Eduardo\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.csproj.GenerateResource.Cache
+Z:\AULAS\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\bin\Debug\jogo_velha.exe.config
+Z:\AULAS\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\bin\Debug\jogo_velha.exe
+Z:\AULAS\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\bin\Debug\jogo_velha.pdb
+Z:\AULAS\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.csprojResolveAssemblyReference.cache
+Z:\AULAS\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.Form1.resources
+Z:\AULAS\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.Properties.Resources.resources
+Z:\AULAS\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.csproj.GenerateResource.Cache
+Z:\AULAS\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.csproj.CoreCompileInputs.cache
+Z:\AULAS\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.exe
+Z:\AULAS\2017-S2\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.pdb
+X:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\bin\Debug\jogo_velha.exe.config
+X:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\bin\Debug\jogo_velha.exe
+X:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\bin\Debug\jogo_velha.pdb
+X:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.Form1.resources
+X:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.csproj.GenerateResource.Cache
+X:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.csproj.CoreCompileInputs.cache
+X:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.exe
+X:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.pdb
+W:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\bin\Debug\jogo_velha.exe.config
+W:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\bin\Debug\jogo_velha.exe
+W:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\bin\Debug\jogo_velha.pdb
+W:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.Form1.resources
+W:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.csproj.CoreCompileInputs.cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.exe
+W:\Professores\Prof. Eduardo\2018-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.pdb
+W:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\bin\Debug\jogo_velha.exe.config
+W:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\bin\Debug\jogo_velha.exe
+W:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\bin\Debug\jogo_velha.pdb
+W:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.csprojAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.Form1.resources
+W:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.csproj.GenerateResource.cache
+W:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.csproj.CoreCompileInputs.cache
+W:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.exe
+W:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.pdb
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.csprojAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.Form1.resources
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.csproj.GenerateResource.cache
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.csproj.CoreCompileInputs.cache
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.exe
+X:\Professores\Prof. Eduardo\2019-S1\EC-2 - Algoritmos II\Jogo_velha - Eduardo\jogo_velha\obj\Debug\jogo_velha.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_Jogo_velha com grid\jogo_velha\bin\Debug\jogo_velha.exe.config
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_Jogo_velha com grid\jogo_velha\bin\Debug\jogo_velha.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_Jogo_velha com grid\jogo_velha\bin\Debug\jogo_velha.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_Jogo_velha com grid\jogo_velha\obj\Debug\jogo_velha.csprojAssemblyReference.cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_Jogo_velha com grid\jogo_velha\obj\Debug\jogo_velha.Form1.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_Jogo_velha com grid\jogo_velha\obj\Debug\jogo_velha.Properties.Resources.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_Jogo_velha com grid\jogo_velha\obj\Debug\jogo_velha.csproj.GenerateResource.cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_Jogo_velha com grid\jogo_velha\obj\Debug\jogo_velha.csproj.CoreCompileInputs.cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_Jogo_velha com grid\jogo_velha\obj\Debug\jogo_velha.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2019-S2\EC-2 - Algoritmos II\Exemplos\WF_Jogo_velha com grid\jogo_velha\obj\Debug\jogo_velha.pdb
