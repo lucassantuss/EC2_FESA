@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC2\Console C#\N1\N1 - Guilherme, Lucas\Ex2_DescobreImpares\bin\Debug\Ex2_DescobreImpares.exe.config
+E:\GITHUB\FESA\EC2\Console C#\N1\N1 - Guilherme, Lucas\Ex2_DescobreImpares\bin\Debug\Ex2_DescobreImpares.exe
+E:\GITHUB\FESA\EC2\Console C#\N1\N1 - Guilherme, Lucas\Ex2_DescobreImpares\bin\Debug\Ex2_DescobreImpares.pdb
+E:\GITHUB\FESA\EC2\Console C#\N1\N1 - Guilherme, Lucas\Ex2_DescobreImpares\obj\Debug\Ex2_DescobreImpares.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC2\Console C#\N1\N1 - Guilherme, Lucas\Ex2_DescobreImpares\obj\Debug\Ex2_DescobreImpares.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC2\Console C#\N1\N1 - Guilherme, Lucas\Ex2_DescobreImpares\obj\Debug\Ex2_DescobreImpares.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC2\Console C#\N1\N1 - Guilherme, Lucas\Ex2_DescobreImpares\obj\Debug\Ex2_DescobreImpares.exe
+E:\GITHUB\FESA\EC2\Console C#\N1\N1 - Guilherme, Lucas\Ex2_DescobreImpares\obj\Debug\Ex2_DescobreImpares.pdb
