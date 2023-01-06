@@ -1,0 +1,47 @@
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Imperfectum\bin\Debug\Imperfectum.exe.config
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Imperfectum\bin\Debug\Imperfectum.exe
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Imperfectum\bin\Debug\Imperfectum.pdb
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Imperfectum\obj\Debug\Imperfectum.csprojAssemblyReference.cache
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Imperfectum\obj\Debug\Imperfectum.Login.resources
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Imperfectum\obj\Debug\Imperfectum.Menu.resources
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Imperfectum\obj\Debug\Imperfectum.Properties.Resources.resources
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Imperfectum\obj\Debug\Imperfectum.csproj.GenerateResource.cache
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Imperfectum\obj\Debug\Imperfectum.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Imperfectum\obj\Debug\Imperfectum.exe
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Imperfectum\obj\Debug\Imperfectum.pdb
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Imperfectum\bin\Debug\Engine.dll
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Imperfectum\bin\Debug\Engine.pdb
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Imperfectum\obj\Debug\Imperfectum.csproj.CopyComplete
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Imperfectum\obj\Debug\Imperfectum.Game.resources
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Imperfectum\obj\Debug\Imperfectum.Loja.resources
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Imperfectum\obj\Debug\Imperfectum.Config.resources
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Imperfectum\obj\Debug\Imperfectum.Hall.resources
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Imperfectum\obj\Debug\Imperfectum.Sobre.resources
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Imperfectum\obj\Debug\Imperfectum.Ajuda.resources
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Imperfectum\obj\Debug\Imperfectum.Lenha.resources
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Imperfectum\obj\Debug\Imperfectum.PegueADona.resources
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Imperfectum\obj\Debug\Imperfectum.Queda.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Imperfectum\bin\Debug\Imperfectum.exe.config
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Imperfectum\bin\Debug\Imperfectum.exe
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Imperfectum\bin\Debug\Imperfectum.pdb
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Imperfectum\bin\Debug\Engine.dll
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Imperfectum\bin\Debug\Engine.pdb
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Imperfectum\obj\Debug\Imperfectum.csproj.AssemblyReference.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Imperfectum\obj\Debug\Imperfectum.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Imperfectum\obj\Debug\Imperfectum.Ajuda.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Imperfectum\obj\Debug\Imperfectum.Config.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Imperfectum\obj\Debug\Imperfectum.Game.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Imperfectum\obj\Debug\Imperfectum.Hall.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Imperfectum\obj\Debug\Imperfectum.Lenha.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Imperfectum\obj\Debug\Imperfectum.Login.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Imperfectum\obj\Debug\Imperfectum.Loja.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Imperfectum\obj\Debug\Imperfectum.Menu.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Imperfectum\obj\Debug\Imperfectum.PegueADona.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Imperfectum\obj\Debug\Imperfectum.Properties.Resources.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Imperfectum\obj\Debug\Imperfectum.Queda.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Imperfectum\obj\Debug\Imperfectum.Sobre.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Imperfectum\obj\Debug\Imperfectum.csproj.GenerateResource.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Imperfectum\obj\Debug\Imperfectum.csproj.CoreCompileInputs.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Imperfectum\obj\Debug\Imperfectum.csproj.CopyComplete
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Imperfectum\obj\Debug\Imperfectum.exe
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Imperfectum\obj\Debug\Imperfectum.pdb

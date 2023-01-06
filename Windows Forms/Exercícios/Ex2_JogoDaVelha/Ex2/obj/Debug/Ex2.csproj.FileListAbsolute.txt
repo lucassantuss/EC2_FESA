@@ -1,0 +1,11 @@
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex2_JogoDaVelha\Ex2\bin\Debug\Ex2.exe.config
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex2_JogoDaVelha\Ex2\bin\Debug\Ex2.exe
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex2_JogoDaVelha\Ex2\bin\Debug\Ex2.pdb
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex2_JogoDaVelha\Ex2\obj\Debug\Ex2.csproj.AssemblyReference.cache
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex2_JogoDaVelha\Ex2\obj\Debug\Ex2.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex2_JogoDaVelha\Ex2\obj\Debug\Ex2.FrmInicial.resources
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex2_JogoDaVelha\Ex2\obj\Debug\Ex2.Properties.Resources.resources
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex2_JogoDaVelha\Ex2\obj\Debug\Ex2.csproj.GenerateResource.cache
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex2_JogoDaVelha\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex2_JogoDaVelha\Ex2\obj\Debug\Ex2.exe
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex2_JogoDaVelha\Ex2\obj\Debug\Ex2.pdb

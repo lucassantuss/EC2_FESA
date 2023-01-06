@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex7_VerificaEspaco\bin\Debug\Ex7_VerificaEspaco.exe.config
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex7_VerificaEspaco\bin\Debug\Ex7_VerificaEspaco.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex7_VerificaEspaco\bin\Debug\Ex7_VerificaEspaco.pdb
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex7_VerificaEspaco\obj\Debug\Ex7_VerificaEspaco.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex7_VerificaEspaco\obj\Debug\Ex7_VerificaEspaco.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex7_VerificaEspaco\obj\Debug\Ex7_VerificaEspaco.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex7_VerificaEspaco\obj\Debug\Ex7_VerificaEspaco.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex7_VerificaEspaco\obj\Debug\Ex7_VerificaEspaco.pdb

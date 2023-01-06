@@ -1,0 +1,10 @@
+C:\AulaFTT\2021-S1\AlgII\WF_Timers\WF_Timers\bin\Debug\WF_Timers.exe.config
+C:\AulaFTT\2021-S1\AlgII\WF_Timers\WF_Timers\bin\Debug\WF_Timers.exe
+C:\AulaFTT\2021-S1\AlgII\WF_Timers\WF_Timers\bin\Debug\WF_Timers.pdb
+C:\AulaFTT\2021-S1\AlgII\WF_Timers\WF_Timers\obj\Debug\WF_Timers.csprojAssemblyReference.cache
+C:\AulaFTT\2021-S1\AlgII\WF_Timers\WF_Timers\obj\Debug\WF_Timers.Form1.resources
+C:\AulaFTT\2021-S1\AlgII\WF_Timers\WF_Timers\obj\Debug\WF_Timers.Properties.Resources.resources
+C:\AulaFTT\2021-S1\AlgII\WF_Timers\WF_Timers\obj\Debug\WF_Timers.csproj.GenerateResource.cache
+C:\AulaFTT\2021-S1\AlgII\WF_Timers\WF_Timers\obj\Debug\WF_Timers.csproj.CoreCompileInputs.cache
+C:\AulaFTT\2021-S1\AlgII\WF_Timers\WF_Timers\obj\Debug\WF_Timers.exe
+C:\AulaFTT\2021-S1\AlgII\WF_Timers\WF_Timers\obj\Debug\WF_Timers.pdb

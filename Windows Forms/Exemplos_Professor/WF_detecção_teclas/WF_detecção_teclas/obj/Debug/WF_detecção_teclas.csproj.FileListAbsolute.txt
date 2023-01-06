@@ -1,0 +1,10 @@
+C:\AulaFTT\2021-S2\AlgII\WF_detecção_teclas\WF_detecção_teclas\bin\Debug\WF_detecção_teclas.exe.config
+C:\AulaFTT\2021-S2\AlgII\WF_detecção_teclas\WF_detecção_teclas\bin\Debug\WF_detecção_teclas.exe
+C:\AulaFTT\2021-S2\AlgII\WF_detecção_teclas\WF_detecção_teclas\bin\Debug\WF_detecção_teclas.pdb
+C:\AulaFTT\2021-S2\AlgII\WF_detecção_teclas\WF_detecção_teclas\obj\Debug\WF_detecção_teclas.csproj.AssemblyReference.cache
+C:\AulaFTT\2021-S2\AlgII\WF_detecção_teclas\WF_detecção_teclas\obj\Debug\WF_detecção_teclas.Form1.resources
+C:\AulaFTT\2021-S2\AlgII\WF_detecção_teclas\WF_detecção_teclas\obj\Debug\WF_detecção_teclas.Properties.Resources.resources
+C:\AulaFTT\2021-S2\AlgII\WF_detecção_teclas\WF_detecção_teclas\obj\Debug\WF_detecção_teclas.csproj.GenerateResource.cache
+C:\AulaFTT\2021-S2\AlgII\WF_detecção_teclas\WF_detecção_teclas\obj\Debug\WF_detecção_teclas.csproj.CoreCompileInputs.cache
+C:\AulaFTT\2021-S2\AlgII\WF_detecção_teclas\WF_detecção_teclas\obj\Debug\WF_detecção_teclas.exe
+C:\AulaFTT\2021-S2\AlgII\WF_detecção_teclas\WF_detecção_teclas\obj\Debug\WF_detecção_teclas.pdb

@@ -1,0 +1,21 @@
+C:\Users\i3 7100\Documents\Aquiles V\FTT\ALGORITMO\Jogo-Da-Forca-CSharp-master\JogoDaForca\bin\Debug\JogoDaForca.exe.config
+C:\Users\i3 7100\Documents\Aquiles V\FTT\ALGORITMO\Jogo-Da-Forca-CSharp-master\JogoDaForca\bin\Debug\JogoDaForca.exe
+C:\Users\i3 7100\Documents\Aquiles V\FTT\ALGORITMO\Jogo-Da-Forca-CSharp-master\JogoDaForca\bin\Debug\JogoDaForca.pdb
+C:\Users\i3 7100\Documents\Aquiles V\FTT\ALGORITMO\Jogo-Da-Forca-CSharp-master\JogoDaForca\obj\Debug\JogoDaForca.csprojAssemblyReference.cache
+C:\Users\i3 7100\Documents\Aquiles V\FTT\ALGORITMO\Jogo-Da-Forca-CSharp-master\JogoDaForca\obj\Debug\JogoDaForca.Form1.resources
+C:\Users\i3 7100\Documents\Aquiles V\FTT\ALGORITMO\Jogo-Da-Forca-CSharp-master\JogoDaForca\obj\Debug\JogoDaForca.Inicio.resources
+C:\Users\i3 7100\Documents\Aquiles V\FTT\ALGORITMO\Jogo-Da-Forca-CSharp-master\JogoDaForca\obj\Debug\JogoDaForca.Properties.Resources.resources
+C:\Users\i3 7100\Documents\Aquiles V\FTT\ALGORITMO\Jogo-Da-Forca-CSharp-master\JogoDaForca\obj\Debug\JogoDaForca.csproj.GenerateResource.cache
+C:\Users\i3 7100\Documents\Aquiles V\FTT\ALGORITMO\Jogo-Da-Forca-CSharp-master\JogoDaForca\obj\Debug\JogoDaForca.csproj.CoreCompileInputs.cache
+C:\Users\i3 7100\Documents\Aquiles V\FTT\ALGORITMO\Jogo-Da-Forca-CSharp-master\JogoDaForca\obj\Debug\JogoDaForca.exe
+C:\Users\i3 7100\Documents\Aquiles V\FTT\ALGORITMO\Jogo-Da-Forca-CSharp-master\JogoDaForca\obj\Debug\JogoDaForca.pdb
+C:\Users\i3 7100\Documents\Aquiles V\FTT\ALGORITMO\MiniGame Forca EC2\JogoDaForca\bin\Debug\JogoDaForca.exe
+C:\Users\i3 7100\Documents\Aquiles V\FTT\ALGORITMO\MiniGame Forca EC2\JogoDaForca\bin\Debug\JogoDaForca.pdb
+C:\Users\i3 7100\Documents\Aquiles V\FTT\ALGORITMO\MiniGame Forca EC2\JogoDaForca\obj\Debug\JogoDaForca.csprojAssemblyReference.cache
+C:\Users\i3 7100\Documents\Aquiles V\FTT\ALGORITMO\MiniGame Forca EC2\JogoDaForca\obj\Debug\JogoDaForca.Form1.resources
+C:\Users\i3 7100\Documents\Aquiles V\FTT\ALGORITMO\MiniGame Forca EC2\JogoDaForca\obj\Debug\JogoDaForca.Inicio.resources
+C:\Users\i3 7100\Documents\Aquiles V\FTT\ALGORITMO\MiniGame Forca EC2\JogoDaForca\obj\Debug\JogoDaForca.Properties.Resources.resources
+C:\Users\i3 7100\Documents\Aquiles V\FTT\ALGORITMO\MiniGame Forca EC2\JogoDaForca\obj\Debug\JogoDaForca.csproj.GenerateResource.cache
+C:\Users\i3 7100\Documents\Aquiles V\FTT\ALGORITMO\MiniGame Forca EC2\JogoDaForca\obj\Debug\JogoDaForca.csproj.CoreCompileInputs.cache
+C:\Users\i3 7100\Documents\Aquiles V\FTT\ALGORITMO\MiniGame Forca EC2\JogoDaForca\obj\Debug\JogoDaForca.exe
+C:\Users\i3 7100\Documents\Aquiles V\FTT\ALGORITMO\MiniGame Forca EC2\JogoDaForca\obj\Debug\JogoDaForca.pdb

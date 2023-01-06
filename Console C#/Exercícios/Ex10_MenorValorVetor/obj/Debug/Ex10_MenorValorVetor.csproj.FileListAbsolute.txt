@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex10_MenorValorVetor\bin\Debug\Ex10_MenorValorVetor.exe.config
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex10_MenorValorVetor\bin\Debug\Ex10_MenorValorVetor.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex10_MenorValorVetor\bin\Debug\Ex10_MenorValorVetor.pdb
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex10_MenorValorVetor\obj\Debug\Ex10_MenorValorVetor.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex10_MenorValorVetor\obj\Debug\Ex10_MenorValorVetor.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex10_MenorValorVetor\obj\Debug\Ex10_MenorValorVetor.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex10_MenorValorVetor\obj\Debug\Ex10_MenorValorVetor.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex10_MenorValorVetor\obj\Debug\Ex10_MenorValorVetor.pdb

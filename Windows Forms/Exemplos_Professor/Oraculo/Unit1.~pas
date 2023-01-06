@@ -1,0 +1,58 @@
+unit Unit1;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls;
+
+type
+  TForm1 = class(TForm)
+    Edit1: TEdit;
+    Button2: TButton;
+    Label1: TLabel;
+    procedure FormCreate(Sender: TObject);
+    procedure Edit1KeyPress(Sender: TObject; var Key: Char);
+  private
+    { Private declarations }
+    vetor : array of string;
+    v_guardando_resp : boolean;
+    v_resp : string;
+    v_pos : integer;
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.FormCreate(Sender: TObject);
+begin
+   setlength(vetor,5);
+   vetor[0] := 'Oh computador de sabedoria!';
+   vetor[1] := 'Grande máquina do saber, me diga';
+   vetor[2] := 'Seu computador de araque, responda agora';
+   vetor[3] := 'Seu monte de bugigangas, me responda ja';
+   vetor[4] := 'Computador que tudo sabe, me diga agora';
+
+   v_resp := '';
+   v_guardando_resp := true;
+   v_pos := 1;
+end;
+
+procedure TForm1.Edit1KeyPress(Sender: TObject; var Key: Char);
+begin
+  if key =#13 then
+     v_guardando_resp := false
+  else if v_guardando_resp then begin
+     key :=
+
+
+  end;
+end;
+
+end.

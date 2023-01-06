@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex4_Vogais\bin\Debug\Ex4_Vogais.exe.config
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex4_Vogais\bin\Debug\Ex4_Vogais.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex4_Vogais\bin\Debug\Ex4_Vogais.pdb
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex4_Vogais\obj\Debug\Ex4_Vogais.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex4_Vogais\obj\Debug\Ex4_Vogais.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex4_Vogais\obj\Debug\Ex4_Vogais.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex4_Vogais\obj\Debug\Ex4_Vogais.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex4_Vogais\obj\Debug\Ex4_Vogais.pdb

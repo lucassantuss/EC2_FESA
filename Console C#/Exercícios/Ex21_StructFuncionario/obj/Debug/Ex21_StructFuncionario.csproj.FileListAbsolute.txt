@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex21_StructFuncionario\bin\Debug\Ex21_StructFuncionario.exe.config
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex21_StructFuncionario\bin\Debug\Ex21_StructFuncionario.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex21_StructFuncionario\bin\Debug\Ex21_StructFuncionario.pdb
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex21_StructFuncionario\obj\Debug\Ex21_StructFuncionario.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex21_StructFuncionario\obj\Debug\Ex21_StructFuncionario.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex21_StructFuncionario\obj\Debug\Ex21_StructFuncionario.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex21_StructFuncionario\obj\Debug\Ex21_StructFuncionario.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex21_StructFuncionario\obj\Debug\Ex21_StructFuncionario.pdb

@@ -1,0 +1,7 @@
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\Notas_e_Moedas\Notas_e_Moedas\bin\Debug\Notas_e_Moedas.exe.config
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\Notas_e_Moedas\Notas_e_Moedas\bin\Debug\Notas_e_Moedas.exe
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\Notas_e_Moedas\Notas_e_Moedas\bin\Debug\Notas_e_Moedas.pdb
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\Notas_e_Moedas\Notas_e_Moedas\obj\Debug\Notas_e_Moedas.csprojAssemblyReference.cache
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\Notas_e_Moedas\Notas_e_Moedas\obj\Debug\Notas_e_Moedas.csproj.CoreCompileInputs.cache
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\Notas_e_Moedas\Notas_e_Moedas\obj\Debug\Notas_e_Moedas.exe
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\Notas_e_Moedas\Notas_e_Moedas\obj\Debug\Notas_e_Moedas.pdb

@@ -1,0 +1,39 @@
+C:\Users\Usuario\Desktop\Jogo Principal\JogoN2\obj\Debug\JogoN2.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Jogo Principal\JogoN2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Usuario\Desktop\Jogo Principal\JogoN2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuario\Desktop\Jogo Principal\JogoN2\obj\Debug\JogoN2.csproj.ResolveComReference.cache
+C:\Users\Usuario\Desktop\Jogo Principal\JogoN2\obj\Debug\JogoN2.frAjuda.resources
+C:\Users\Usuario\Desktop\Jogo Principal\JogoN2\obj\Debug\JogoN2.FrmGameOver.resources
+C:\Users\Usuario\Desktop\Jogo Principal\JogoN2\obj\Debug\JogoN2.FrmMenu.resources
+C:\Users\Usuario\Desktop\Jogo Principal\JogoN2\obj\Debug\JogoN2.FrmPlay.resources
+C:\Users\Usuario\Desktop\Jogo Principal\JogoN2\obj\Debug\JogoN2.frSobre.resources
+C:\Users\Usuario\Desktop\Jogo Principal\JogoN2\obj\Debug\JogoN2.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Jogo Principal\JogoN2\bin\Debug\JogoN2.exe.config
+C:\Users\Usuario\Desktop\Jogo Principal\JogoN2\bin\Debug\JogoN2.exe
+C:\Users\Usuario\Desktop\Jogo Principal\JogoN2\bin\Debug\JogoN2.pdb
+C:\Users\Usuario\Desktop\Jogo Principal\JogoN2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Usuario\Desktop\Jogo Principal\JogoN2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuario\Desktop\Jogo Principal\JogoN2\obj\Debug\JogoN2.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Jogo Principal\JogoN2\obj\Debug\JogoN2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Jogo Principal\JogoN2\obj\Debug\JogoN2.exe
+C:\Users\Usuario\Desktop\Jogo Principal\JogoN2\obj\Debug\JogoN2.pdb
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Principal\JogoN2\bin\Debug\JogoN2.exe.config
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Principal\JogoN2\bin\Debug\JogoN2.exe
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Principal\JogoN2\bin\Debug\JogoN2.pdb
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Principal\JogoN2\bin\Debug\Interop.WMPLib.dll
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Principal\JogoN2\bin\Debug\AxInterop.WMPLib.dll
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Principal\JogoN2\obj\Debug\JogoN2.csproj.AssemblyReference.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Principal\JogoN2\obj\Debug\JogoN2.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Principal\JogoN2\obj\Debug\Interop.WMPLib.dll
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Principal\JogoN2\obj\Debug\AxInterop.WMPLib.dll
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Principal\JogoN2\obj\Debug\JogoN2.csproj.ResolveComReference.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Principal\JogoN2\obj\Debug\JogoN2.frAjuda.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Principal\JogoN2\obj\Debug\JogoN2.FrmGameOver.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Principal\JogoN2\obj\Debug\JogoN2.FrmMenu.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Principal\JogoN2\obj\Debug\JogoN2.FrmPlay.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Principal\JogoN2\obj\Debug\JogoN2.frSobre.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Principal\JogoN2\obj\Debug\JogoN2.Properties.Resources.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Principal\JogoN2\obj\Debug\JogoN2.csproj.GenerateResource.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Principal\JogoN2\obj\Debug\JogoN2.csproj.CoreCompileInputs.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Principal\JogoN2\obj\Debug\JogoN2.exe
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Principal\JogoN2\obj\Debug\JogoN2.pdb

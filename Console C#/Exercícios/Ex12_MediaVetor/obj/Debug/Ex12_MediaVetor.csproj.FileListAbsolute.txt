@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex12_MediaVetor\bin\Debug\Ex12_MediaVetor.exe.config
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex12_MediaVetor\bin\Debug\Ex12_MediaVetor.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex12_MediaVetor\bin\Debug\Ex12_MediaVetor.pdb
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex12_MediaVetor\obj\Debug\Ex12_MediaVetor.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex12_MediaVetor\obj\Debug\Ex12_MediaVetor.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex12_MediaVetor\obj\Debug\Ex12_MediaVetor.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex12_MediaVetor\obj\Debug\Ex12_MediaVetor.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex12_MediaVetor\obj\Debug\Ex12_MediaVetor.pdb

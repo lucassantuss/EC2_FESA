@@ -1,0 +1,10 @@
+C:\AulaFTT\2021-S2\AlgII\EX_0_WF\EX_0_WF\bin\Debug\EX_0_WF.exe.config
+C:\AulaFTT\2021-S2\AlgII\EX_0_WF\EX_0_WF\bin\Debug\EX_0_WF.exe
+C:\AulaFTT\2021-S2\AlgII\EX_0_WF\EX_0_WF\bin\Debug\EX_0_WF.pdb
+C:\AulaFTT\2021-S2\AlgII\EX_0_WF\EX_0_WF\obj\Debug\EX_0_WF.csproj.AssemblyReference.cache
+C:\AulaFTT\2021-S2\AlgII\EX_0_WF\EX_0_WF\obj\Debug\EX_0_WF.Form1.resources
+C:\AulaFTT\2021-S2\AlgII\EX_0_WF\EX_0_WF\obj\Debug\EX_0_WF.Properties.Resources.resources
+C:\AulaFTT\2021-S2\AlgII\EX_0_WF\EX_0_WF\obj\Debug\EX_0_WF.csproj.GenerateResource.cache
+C:\AulaFTT\2021-S2\AlgII\EX_0_WF\EX_0_WF\obj\Debug\EX_0_WF.csproj.CoreCompileInputs.cache
+C:\AulaFTT\2021-S2\AlgII\EX_0_WF\EX_0_WF\obj\Debug\EX_0_WF.exe
+C:\AulaFTT\2021-S2\AlgII\EX_0_WF\EX_0_WF\obj\Debug\EX_0_WF.pdb

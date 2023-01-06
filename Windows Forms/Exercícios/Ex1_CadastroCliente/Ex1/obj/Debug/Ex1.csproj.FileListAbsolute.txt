@@ -1,0 +1,21 @@
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex1\Ex1\bin\Debug\Ex1.exe.config
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex1\Ex1\bin\Debug\Ex1.exe
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex1\Ex1\bin\Debug\Ex1.pdb
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex1\Ex1\obj\Debug\Ex1.csprojAssemblyReference.cache
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex1\Ex1\obj\Debug\Ex1.Properties.Resources.resources
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex1\Ex1\obj\Debug\Ex1.csproj.GenerateResource.cache
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex1\Ex1\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex1\Ex1\obj\Debug\Ex1.exe
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex1\Ex1\obj\Debug\Ex1.pdb
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex1\Ex1\obj\Debug\Ex1.FrmInicial.resources
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex1_CadastroCliente\Ex1\bin\Debug\Ex1.exe.config
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex1_CadastroCliente\Ex1\bin\Debug\Ex1.exe
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex1_CadastroCliente\Ex1\bin\Debug\Ex1.pdb
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex1_CadastroCliente\Ex1\obj\Debug\Ex1.csproj.AssemblyReference.cache
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex1_CadastroCliente\Ex1\obj\Debug\Ex1.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex1_CadastroCliente\Ex1\obj\Debug\Ex1.FrmInicial.resources
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex1_CadastroCliente\Ex1\obj\Debug\Ex1.Properties.Resources.resources
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex1_CadastroCliente\Ex1\obj\Debug\Ex1.csproj.GenerateResource.cache
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex1_CadastroCliente\Ex1\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex1_CadastroCliente\Ex1\obj\Debug\Ex1.exe
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex1_CadastroCliente\Ex1\obj\Debug\Ex1.pdb

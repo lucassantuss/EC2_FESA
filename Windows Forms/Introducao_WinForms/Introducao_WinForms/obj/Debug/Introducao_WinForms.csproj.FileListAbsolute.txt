@@ -1,0 +1,21 @@
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Introducao_WinForms\Introducao_WinForms\bin\Debug\Introducao_WinForms.exe.config
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Introducao_WinForms\Introducao_WinForms\bin\Debug\Introducao_WinForms.exe
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Introducao_WinForms\Introducao_WinForms\bin\Debug\Introducao_WinForms.pdb
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Introducao_WinForms\Introducao_WinForms\obj\Debug\Introducao_WinForms.csprojAssemblyReference.cache
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Introducao_WinForms\Introducao_WinForms\obj\Debug\Introducao_WinForms.Properties.Resources.resources
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Introducao_WinForms\Introducao_WinForms\obj\Debug\Introducao_WinForms.csproj.GenerateResource.cache
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Introducao_WinForms\Introducao_WinForms\obj\Debug\Introducao_WinForms.csproj.CoreCompileInputs.cache
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Introducao_WinForms\Introducao_WinForms\obj\Debug\Introducao_WinForms.exe
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Introducao_WinForms\Introducao_WinForms\obj\Debug\Introducao_WinForms.pdb
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Introducao_WinForms\Introducao_WinForms\obj\Debug\Introducao_WinForms.FrmInicial.resources
+E:\GITHUB\a\EC2\Windows Forms\Introducao_WinForms\Introducao_WinForms\bin\Debug\Introducao_WinForms.exe.config
+E:\GITHUB\a\EC2\Windows Forms\Introducao_WinForms\Introducao_WinForms\bin\Debug\Introducao_WinForms.exe
+E:\GITHUB\a\EC2\Windows Forms\Introducao_WinForms\Introducao_WinForms\bin\Debug\Introducao_WinForms.pdb
+E:\GITHUB\a\EC2\Windows Forms\Introducao_WinForms\Introducao_WinForms\obj\Debug\Introducao_WinForms.csproj.AssemblyReference.cache
+E:\GITHUB\a\EC2\Windows Forms\Introducao_WinForms\Introducao_WinForms\obj\Debug\Introducao_WinForms.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\a\EC2\Windows Forms\Introducao_WinForms\Introducao_WinForms\obj\Debug\Introducao_WinForms.FrmInicial.resources
+E:\GITHUB\a\EC2\Windows Forms\Introducao_WinForms\Introducao_WinForms\obj\Debug\Introducao_WinForms.Properties.Resources.resources
+E:\GITHUB\a\EC2\Windows Forms\Introducao_WinForms\Introducao_WinForms\obj\Debug\Introducao_WinForms.csproj.GenerateResource.cache
+E:\GITHUB\a\EC2\Windows Forms\Introducao_WinForms\Introducao_WinForms\obj\Debug\Introducao_WinForms.csproj.CoreCompileInputs.cache
+E:\GITHUB\a\EC2\Windows Forms\Introducao_WinForms\Introducao_WinForms\obj\Debug\Introducao_WinForms.exe
+E:\GITHUB\a\EC2\Windows Forms\Introducao_WinForms\Introducao_WinForms\obj\Debug\Introducao_WinForms.pdb

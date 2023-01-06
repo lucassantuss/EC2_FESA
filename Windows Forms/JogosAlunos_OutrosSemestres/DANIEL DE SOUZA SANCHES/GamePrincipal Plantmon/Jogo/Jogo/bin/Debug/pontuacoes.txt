@@ -1,0 +1,4 @@
+ROUND|1|QUe||Vc tá loko
+ROUND|1|DAN|desligado|Médio
+ROUND|1|OIE||Fácil
+ROUND|1|OLÁ|ligado|Fácil

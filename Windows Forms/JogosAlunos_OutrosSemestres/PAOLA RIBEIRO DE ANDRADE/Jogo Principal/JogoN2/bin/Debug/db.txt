@@ -1,0 +1,4 @@
+nickName|pontos
+LUCAS|2
+BRABA|6
+CZXCX|5

@@ -1,0 +1,12 @@
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Engine\bin\Debug\Engine.dll
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Engine\bin\Debug\Engine.pdb
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Engine\obj\Debug\Engine.dll
+C:\Users\User\Documents\Trabsons\Programas\Imperfectum\Engine\obj\Debug\Engine.pdb
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Engine\bin\Debug\Engine.dll
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Engine\bin\Debug\Engine.pdb
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Engine\obj\Debug\Engine.csproj.AssemblyReference.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Engine\obj\Debug\Engine.dll
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ARIEL PEREIRA SANTOS ._193059_assignsubmission_file_\TRABALHO\ATIVIDADE_1\Imperfectum\Engine\obj\Debug\Engine.pdb

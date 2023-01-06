@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex6_TresMetodos\bin\Debug\Ex6_TresMetodos.exe.config
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex6_TresMetodos\bin\Debug\Ex6_TresMetodos.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex6_TresMetodos\bin\Debug\Ex6_TresMetodos.pdb
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex6_TresMetodos\obj\Debug\Ex6_TresMetodos.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex6_TresMetodos\obj\Debug\Ex6_TresMetodos.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex6_TresMetodos\obj\Debug\Ex6_TresMetodos.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex6_TresMetodos\obj\Debug\Ex6_TresMetodos.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex6_TresMetodos\obj\Debug\Ex6_TresMetodos.pdb

@@ -1,0 +1,10 @@
+C:\AulaFTT\EC2\OpenFiledialog_Timer_Keys\OpenFiledialog_Timer_Keys\bin\Debug\OpenFiledialog_Timer_Keys.exe.config
+C:\AulaFTT\EC2\OpenFiledialog_Timer_Keys\OpenFiledialog_Timer_Keys\bin\Debug\OpenFiledialog_Timer_Keys.exe
+C:\AulaFTT\EC2\OpenFiledialog_Timer_Keys\OpenFiledialog_Timer_Keys\bin\Debug\OpenFiledialog_Timer_Keys.pdb
+C:\AulaFTT\EC2\OpenFiledialog_Timer_Keys\OpenFiledialog_Timer_Keys\obj\Debug\OpenFiledialog_Timer_Keys.csprojAssemblyReference.cache
+C:\AulaFTT\EC2\OpenFiledialog_Timer_Keys\OpenFiledialog_Timer_Keys\obj\Debug\OpenFiledialog_Timer_Keys.Form1.resources
+C:\AulaFTT\EC2\OpenFiledialog_Timer_Keys\OpenFiledialog_Timer_Keys\obj\Debug\OpenFiledialog_Timer_Keys.Properties.Resources.resources
+C:\AulaFTT\EC2\OpenFiledialog_Timer_Keys\OpenFiledialog_Timer_Keys\obj\Debug\OpenFiledialog_Timer_Keys.csproj.GenerateResource.cache
+C:\AulaFTT\EC2\OpenFiledialog_Timer_Keys\OpenFiledialog_Timer_Keys\obj\Debug\OpenFiledialog_Timer_Keys.csproj.CoreCompileInputs.cache
+C:\AulaFTT\EC2\OpenFiledialog_Timer_Keys\OpenFiledialog_Timer_Keys\obj\Debug\OpenFiledialog_Timer_Keys.exe
+C:\AulaFTT\EC2\OpenFiledialog_Timer_Keys\OpenFiledialog_Timer_Keys\obj\Debug\OpenFiledialog_Timer_Keys.pdb

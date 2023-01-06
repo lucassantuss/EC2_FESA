@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex9_Tabuada\bin\Debug\Ex9_Tabuada.exe.config
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex9_Tabuada\bin\Debug\Ex9_Tabuada.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex9_Tabuada\bin\Debug\Ex9_Tabuada.pdb
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex9_Tabuada\obj\Debug\Ex9_Tabuada.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex9_Tabuada\obj\Debug\Ex9_Tabuada.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex9_Tabuada\obj\Debug\Ex9_Tabuada.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex9_Tabuada\obj\Debug\Ex9_Tabuada.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex9_Tabuada\obj\Debug\Ex9_Tabuada.pdb

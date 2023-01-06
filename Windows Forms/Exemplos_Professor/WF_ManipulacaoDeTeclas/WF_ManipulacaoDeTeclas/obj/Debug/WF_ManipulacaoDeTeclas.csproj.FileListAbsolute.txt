@@ -1,0 +1,10 @@
+C:\AulaFTT\2020-S2\AlgII\WF_ManipulacaoDeTeclas\WF_ManipulacaoDeTeclas\bin\Debug\WF_ManipulacaoDeTeclas.exe.config
+C:\AulaFTT\2020-S2\AlgII\WF_ManipulacaoDeTeclas\WF_ManipulacaoDeTeclas\bin\Debug\WF_ManipulacaoDeTeclas.exe
+C:\AulaFTT\2020-S2\AlgII\WF_ManipulacaoDeTeclas\WF_ManipulacaoDeTeclas\bin\Debug\WF_ManipulacaoDeTeclas.pdb
+C:\AulaFTT\2020-S2\AlgII\WF_ManipulacaoDeTeclas\WF_ManipulacaoDeTeclas\obj\Debug\WF_ManipulacaoDeTeclas.csprojAssemblyReference.cache
+C:\AulaFTT\2020-S2\AlgII\WF_ManipulacaoDeTeclas\WF_ManipulacaoDeTeclas\obj\Debug\WF_ManipulacaoDeTeclas.Form1.resources
+C:\AulaFTT\2020-S2\AlgII\WF_ManipulacaoDeTeclas\WF_ManipulacaoDeTeclas\obj\Debug\WF_ManipulacaoDeTeclas.Properties.Resources.resources
+C:\AulaFTT\2020-S2\AlgII\WF_ManipulacaoDeTeclas\WF_ManipulacaoDeTeclas\obj\Debug\WF_ManipulacaoDeTeclas.csproj.GenerateResource.cache
+C:\AulaFTT\2020-S2\AlgII\WF_ManipulacaoDeTeclas\WF_ManipulacaoDeTeclas\obj\Debug\WF_ManipulacaoDeTeclas.csproj.CoreCompileInputs.cache
+C:\AulaFTT\2020-S2\AlgII\WF_ManipulacaoDeTeclas\WF_ManipulacaoDeTeclas\obj\Debug\WF_ManipulacaoDeTeclas.exe
+C:\AulaFTT\2020-S2\AlgII\WF_ManipulacaoDeTeclas\WF_ManipulacaoDeTeclas\obj\Debug\WF_ManipulacaoDeTeclas.pdb

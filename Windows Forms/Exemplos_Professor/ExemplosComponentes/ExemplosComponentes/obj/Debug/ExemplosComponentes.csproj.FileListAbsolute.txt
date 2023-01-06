@@ -1,0 +1,9 @@
+C:\AulaFTT\2021-S2\AlgII\ExemplosComponentes\ExemplosComponentes\bin\Debug\ExemplosComponentes.exe.config
+C:\AulaFTT\2021-S2\AlgII\ExemplosComponentes\ExemplosComponentes\bin\Debug\ExemplosComponentes.exe
+C:\AulaFTT\2021-S2\AlgII\ExemplosComponentes\ExemplosComponentes\bin\Debug\ExemplosComponentes.pdb
+C:\AulaFTT\2021-S2\AlgII\ExemplosComponentes\ExemplosComponentes\obj\Debug\ExemplosComponentes.Form1.resources
+C:\AulaFTT\2021-S2\AlgII\ExemplosComponentes\ExemplosComponentes\obj\Debug\ExemplosComponentes.Properties.Resources.resources
+C:\AulaFTT\2021-S2\AlgII\ExemplosComponentes\ExemplosComponentes\obj\Debug\ExemplosComponentes.csproj.GenerateResource.cache
+C:\AulaFTT\2021-S2\AlgII\ExemplosComponentes\ExemplosComponentes\obj\Debug\ExemplosComponentes.csproj.CoreCompileInputs.cache
+C:\AulaFTT\2021-S2\AlgII\ExemplosComponentes\ExemplosComponentes\obj\Debug\ExemplosComponentes.exe
+C:\AulaFTT\2021-S2\AlgII\ExemplosComponentes\ExemplosComponentes\obj\Debug\ExemplosComponentes.pdb

@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex17_ControleDadosAluno\bin\Debug\Ex17_ControleDadosAluno.exe.config
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex17_ControleDadosAluno\bin\Debug\Ex17_ControleDadosAluno.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex17_ControleDadosAluno\bin\Debug\Ex17_ControleDadosAluno.pdb
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex17_ControleDadosAluno\obj\Debug\Ex17_ControleDadosAluno.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex17_ControleDadosAluno\obj\Debug\Ex17_ControleDadosAluno.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex17_ControleDadosAluno\obj\Debug\Ex17_ControleDadosAluno.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex17_ControleDadosAluno\obj\Debug\Ex17_ControleDadosAluno.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex17_ControleDadosAluno\obj\Debug\Ex17_ControleDadosAluno.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1401
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N2_Jogo", "N2_Jogo\N2_Jogo.csproj", "{799E7876-D3EA-46B9-97E7-9D9FAEA641BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo-da-memoria", "Jogo-da-memoria\Jogo-da-memoria.csproj", "{CCF7045F-1502-43F3-B456-16C6D2E7EFDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoKenPo", "JoKenPo\JoKenPo.csproj", "{9C124E02-852A-4273-A6BB-3B0AEC1761ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{799E7876-D3EA-46B9-97E7-9D9FAEA641BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799E7876-D3EA-46B9-97E7-9D9FAEA641BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799E7876-D3EA-46B9-97E7-9D9FAEA641BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799E7876-D3EA-46B9-97E7-9D9FAEA641BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF7045F-1502-43F3-B456-16C6D2E7EFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF7045F-1502-43F3-B456-16C6D2E7EFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF7045F-1502-43F3-B456-16C6D2E7EFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF7045F-1502-43F3-B456-16C6D2E7EFDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C124E02-852A-4273-A6BB-3B0AEC1761ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C124E02-852A-4273-A6BB-3B0AEC1761ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C124E02-852A-4273-A6BB-3B0AEC1761ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C124E02-852A-4273-A6BB-3B0AEC1761ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C18C8B9-5B4E-4651-AD20-C1441BC84847}
+	EndGlobalSection
+EndGlobal

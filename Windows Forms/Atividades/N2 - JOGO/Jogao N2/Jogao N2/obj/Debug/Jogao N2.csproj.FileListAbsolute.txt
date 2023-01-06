@@ -1,0 +1,51 @@
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\bin\Debug\Jogao N2.exe.config
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\bin\Debug\Jogao N2.exe
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\bin\Debug\Jogao N2.pdb
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\bin\Debug\Interop.WMPLib.dll
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\bin\Debug\AxInterop.WMPLib.dll
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao N2.csprojAssemblyReference.cache
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Interop.WMPLib.dll
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\AxInterop.WMPLib.dll
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao N2.csproj.ResolveComReference.cache
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao_N2.FlappyBall.resources
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao_N2.FrmMinigMataPalmeiras.resources
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao_N2.FrmConfiguracoes.resources
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao_N2.FrmInicial.resources
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao_N2.FrmNovoJogador.resources
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao_N2.FrmPenalti.resources
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao_N2.FrmPenaltiTut.resources
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao_N2.FrmPrincipal.resources
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao_N2.FrmRanking.resources
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao_N2.FrmSobre.resources
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao_N2.FrmTutorial.resources
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao_N2.Properties.Resources.resources
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao N2.csproj.GenerateResource.cache
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao N2.csproj.CoreCompileInputs.cache
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao N2.exe
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao N2.pdb
+E:\GITHUB\a\EC2\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\bin\Debug\Jogao N2.exe.config
+E:\GITHUB\a\EC2\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\bin\Debug\Jogao N2.exe
+E:\GITHUB\a\EC2\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\bin\Debug\Jogao N2.pdb
+E:\GITHUB\a\EC2\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\bin\Debug\Interop.WMPLib.dll
+E:\GITHUB\a\EC2\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\bin\Debug\AxInterop.WMPLib.dll
+E:\GITHUB\a\EC2\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao N2.csproj.AssemblyReference.cache
+E:\GITHUB\a\EC2\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao N2.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\a\EC2\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Interop.WMPLib.dll
+E:\GITHUB\a\EC2\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\AxInterop.WMPLib.dll
+E:\GITHUB\a\EC2\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao N2.csproj.ResolveComReference.cache
+E:\GITHUB\a\EC2\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao_N2.FlappyBall.resources
+E:\GITHUB\a\EC2\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao_N2.FrmMinigMataPalmeiras.resources
+E:\GITHUB\a\EC2\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao_N2.FrmConfiguracoes.resources
+E:\GITHUB\a\EC2\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao_N2.FrmInicial.resources
+E:\GITHUB\a\EC2\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao_N2.FrmNovoJogador.resources
+E:\GITHUB\a\EC2\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao_N2.FrmPenalti.resources
+E:\GITHUB\a\EC2\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao_N2.FrmPenaltiTut.resources
+E:\GITHUB\a\EC2\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao_N2.FrmPrincipal.resources
+E:\GITHUB\a\EC2\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao_N2.FrmRanking.resources
+E:\GITHUB\a\EC2\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao_N2.FrmSobre.resources
+E:\GITHUB\a\EC2\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao_N2.FrmTutorial.resources
+E:\GITHUB\a\EC2\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao_N2.Properties.Resources.resources
+E:\GITHUB\a\EC2\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao N2.csproj.GenerateResource.cache
+E:\GITHUB\a\EC2\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao N2.csproj.CoreCompileInputs.cache
+E:\GITHUB\a\EC2\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao N2.exe
+E:\GITHUB\a\EC2\Windows Forms\Atividades\N2 - JOGO\jogoFTT-master\Jogao N2\obj\Debug\Jogao N2.pdb

@@ -1,0 +1,21 @@
+C:\Users\Usuario\source\repos\jogo\jogo\bin\Debug\jogo.exe.config
+C:\Users\Usuario\source\repos\jogo\jogo\bin\Debug\jogo.exe
+C:\Users\Usuario\source\repos\jogo\jogo\bin\Debug\jogo.pdb
+C:\Users\Usuario\source\repos\jogo\jogo\obj\Debug\jogo.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\jogo\jogo\obj\Debug\jogo.Form1.resources
+C:\Users\Usuario\source\repos\jogo\jogo\obj\Debug\jogo.Properties.Resources.resources
+C:\Users\Usuario\source\repos\jogo\jogo\obj\Debug\jogo.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\jogo\jogo\obj\Debug\jogo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\jogo\jogo\obj\Debug\jogo.exe
+C:\Users\Usuario\source\repos\jogo\jogo\obj\Debug\jogo.pdb
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Rámen\jogo\bin\Debug\jogo.exe.config
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Rámen\jogo\bin\Debug\jogo.exe
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Rámen\jogo\bin\Debug\jogo.pdb
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Rámen\jogo\obj\Debug\jogo.csproj.AssemblyReference.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Rámen\jogo\obj\Debug\jogo.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Rámen\jogo\obj\Debug\jogo.Form1.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Rámen\jogo\obj\Debug\jogo.Properties.Resources.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Rámen\jogo\obj\Debug\jogo.csproj.GenerateResource.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Rámen\jogo\obj\Debug\jogo.csproj.CoreCompileInputs.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Rámen\jogo\obj\Debug\jogo.exe
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\PAOLA RIBEIRO DE ANDRADE\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo Rámen\jogo\obj\Debug\jogo.pdb

@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex16_DebugEditorDeTexto\bin\Debug\Ex16_DebugEditorDeTexto.exe.config
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex16_DebugEditorDeTexto\bin\Debug\Ex16_DebugEditorDeTexto.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex16_DebugEditorDeTexto\bin\Debug\Ex16_DebugEditorDeTexto.pdb
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex16_DebugEditorDeTexto\obj\Debug\Ex16_DebugEditorDeTexto.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex16_DebugEditorDeTexto\obj\Debug\Ex16_DebugEditorDeTexto.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex16_DebugEditorDeTexto\obj\Debug\Ex16_DebugEditorDeTexto.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex16_DebugEditorDeTexto\obj\Debug\Ex16_DebugEditorDeTexto.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex16_DebugEditorDeTexto\obj\Debug\Ex16_DebugEditorDeTexto.pdb

@@ -1,0 +1,89 @@
+C:\Users\User\Desktop\N2\Jogo N2\Jogo N2\bin\Debug\Jogo N2.exe.config
+C:\Users\User\Desktop\N2\Jogo N2\Jogo N2\bin\Debug\Jogo N2.exe
+C:\Users\User\Desktop\N2\Jogo N2\Jogo N2\bin\Debug\Jogo N2.pdb
+C:\Users\User\Desktop\N2\Jogo N2\Jogo N2\obj\Debug\Jogo N2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\N2\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.frmInicio.resources
+C:\Users\User\Desktop\N2\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.Properties.Resources.resources
+C:\Users\User\Desktop\N2\Jogo N2\Jogo N2\obj\Debug\Jogo N2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\N2\Jogo N2\Jogo N2\obj\Debug\Jogo N2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\N2\Jogo N2\Jogo N2\obj\Debug\Jogo N2.exe
+C:\Users\User\Desktop\N2\Jogo N2\Jogo N2\obj\Debug\Jogo N2.pdb
+C:\Users\User\Desktop\N2\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.frmConfig.resources
+C:\Users\User\Desktop\N2\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.frmDificuldade.resources
+C:\Users\User\Desktop\N2\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.FrmGameOver.resources
+C:\Users\User\Desktop\N2\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.frmPlacar.resources
+C:\Users\User\Desktop\N2\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.frmTutorial.resources
+C:\Users\User\Desktop\N2\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.frmUsuario.resources
+C:\Users\User\Desktop\N2\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.frmJogo.resources
+C:\Users\User\Desktop\N2\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.frmMiniGame.resources
+C:\Users\User\Desktop\N2 Genius\Jogo N2\Jogo N2\bin\Debug\Jogo N2.exe.config
+C:\Users\User\Desktop\N2 Genius\Jogo N2\Jogo N2\bin\Debug\Jogo N2.exe
+C:\Users\User\Desktop\N2 Genius\Jogo N2\Jogo N2\bin\Debug\Jogo N2.pdb
+C:\Users\User\Desktop\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo N2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.frmConfig.resources
+C:\Users\User\Desktop\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.frmDificuldade.resources
+C:\Users\User\Desktop\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.frmGameOver.resources
+C:\Users\User\Desktop\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.frmInicio.resources
+C:\Users\User\Desktop\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.frmJogo.resources
+C:\Users\User\Desktop\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.frmPlacar.resources
+C:\Users\User\Desktop\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.frmSobre.resources
+C:\Users\User\Desktop\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.frmTutorial.resources
+C:\Users\User\Desktop\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.frmUsuario.resources
+C:\Users\User\Desktop\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.Properties.Resources.resources
+C:\Users\User\Desktop\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo N2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo N2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo N2.exe
+C:\Users\User\Desktop\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo N2.pdb
+C:\Users\Acer\Downloads\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo N2.csprojAssemblyReference.cache
+C:\Users\Acer\Downloads\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.frmConfig.resources
+C:\Users\Acer\Downloads\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.frmDificuldade.resources
+C:\Users\Acer\Downloads\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.frmGameOver.resources
+C:\Users\Acer\Downloads\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.frmInicio.resources
+C:\Users\Acer\Downloads\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.frmJogo.resources
+C:\Users\Acer\Downloads\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.frmMiniGame.resources
+C:\Users\Acer\Downloads\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.frmPlacar.resources
+C:\Users\Acer\Downloads\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.frmSobre.resources
+C:\Users\Acer\Downloads\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.frmTutorial.resources
+C:\Users\Acer\Downloads\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.frmUsuario.resources
+C:\Users\Acer\Downloads\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo_N2.Properties.Resources.resources
+C:\Users\Acer\Downloads\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo N2.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo N2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo N2.exe
+C:\Users\Acer\Downloads\N2 Genius\Jogo N2\Jogo N2\obj\Debug\Jogo N2.pdb
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\Jogo N2\bin\Debug\Jogo N2.exe.config
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\Jogo N2\bin\Debug\Jogo N2.exe
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\Jogo N2\bin\Debug\Jogo N2.pdb
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo N2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo_N2.frmConfig.resources
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo_N2.frmDificuldade.resources
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo_N2.frmGameOver.resources
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo_N2.frmInicio.resources
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo_N2.frmJogo.resources
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo_N2.frmPlacar.resources
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo_N2.frmSobre.resources
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo_N2.frmTutorial.resources
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo_N2.frmUsuario.resources
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo_N2.Properties.Resources.resources
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo N2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo N2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo N2.exe
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo N2.pdb
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\GABRIEL FORAMILIO ARAUJO\TRABALHO\Atividade_1\N2 Genius\Jogo N2\bin\Debug\Jogo N2.exe.config
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\GABRIEL FORAMILIO ARAUJO\TRABALHO\Atividade_1\N2 Genius\Jogo N2\bin\Debug\Jogo N2.exe
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\GABRIEL FORAMILIO ARAUJO\TRABALHO\Atividade_1\N2 Genius\Jogo N2\bin\Debug\Jogo N2.pdb
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\GABRIEL FORAMILIO ARAUJO\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo N2.csproj.AssemblyReference.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\GABRIEL FORAMILIO ARAUJO\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo N2.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\GABRIEL FORAMILIO ARAUJO\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo_N2.frmConfig.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\GABRIEL FORAMILIO ARAUJO\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo_N2.frmDificuldade.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\GABRIEL FORAMILIO ARAUJO\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo_N2.frmGameOver.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\GABRIEL FORAMILIO ARAUJO\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo_N2.frmInicio.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\GABRIEL FORAMILIO ARAUJO\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo_N2.frmJogo.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\GABRIEL FORAMILIO ARAUJO\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo_N2.frmPlacar.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\GABRIEL FORAMILIO ARAUJO\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo_N2.frmSobre.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\GABRIEL FORAMILIO ARAUJO\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo_N2.frmTutorial.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\GABRIEL FORAMILIO ARAUJO\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo_N2.frmUsuario.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\GABRIEL FORAMILIO ARAUJO\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo_N2.Properties.Resources.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\GABRIEL FORAMILIO ARAUJO\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo N2.csproj.GenerateResource.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\GABRIEL FORAMILIO ARAUJO\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo N2.csproj.CoreCompileInputs.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\GABRIEL FORAMILIO ARAUJO\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo N2.exe
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\GABRIEL FORAMILIO ARAUJO\TRABALHO\Atividade_1\N2 Genius\Jogo N2\obj\Debug\Jogo N2.pdb

@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex15_DebugGerador\bin\Debug\Ex15_DebugGerador.exe.config
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex15_DebugGerador\bin\Debug\Ex15_DebugGerador.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex15_DebugGerador\bin\Debug\Ex15_DebugGerador.pdb
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex15_DebugGerador\obj\Debug\Ex15_DebugGerador.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex15_DebugGerador\obj\Debug\Ex15_DebugGerador.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex15_DebugGerador\obj\Debug\Ex15_DebugGerador.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex15_DebugGerador\obj\Debug\Ex15_DebugGerador.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex15_DebugGerador\obj\Debug\Ex15_DebugGerador.pdb

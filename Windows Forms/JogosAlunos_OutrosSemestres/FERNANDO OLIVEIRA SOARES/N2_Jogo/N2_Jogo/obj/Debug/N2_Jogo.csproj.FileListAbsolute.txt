@@ -1,0 +1,82 @@
+C:\Users\deboracristina\source\repos\N2_Jogo\N2_Jogo\bin\Debug\N2_Jogo.exe.config
+C:\Users\deboracristina\source\repos\N2_Jogo\N2_Jogo\bin\Debug\N2_Jogo.exe
+C:\Users\deboracristina\source\repos\N2_Jogo\N2_Jogo\bin\Debug\N2_Jogo.pdb
+C:\Users\deboracristina\source\repos\N2_Jogo\N2_Jogo\bin\Debug\Interop.WMPLib.dll
+C:\Users\deboracristina\source\repos\N2_Jogo\N2_Jogo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\deboracristina\source\repos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.csprojAssemblyReference.cache
+C:\Users\deboracristina\source\repos\N2_Jogo\N2_Jogo\obj\Debug\Interop.WMPLib.dll
+C:\Users\deboracristina\source\repos\N2_Jogo\N2_Jogo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\deboracristina\source\repos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.csproj.ResolveComReference.cache
+C:\Users\deboracristina\source\repos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frJogoPrincipal.resources
+C:\Users\deboracristina\source\repos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frTelaAjuda.resources
+C:\Users\deboracristina\source\repos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frTelaConfig.resources
+C:\Users\deboracristina\source\repos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frTelaInicial.resources
+C:\Users\deboracristina\source\repos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frTelaLogin.resources
+C:\Users\deboracristina\source\repos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frTelaRecordes.resources
+C:\Users\deboracristina\source\repos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frTelaSobre.resources
+C:\Users\deboracristina\source\repos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.Properties.Resources.resources
+C:\Users\deboracristina\source\repos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.csproj.GenerateResource.cache
+C:\Users\deboracristina\source\repos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.csproj.CoreCompileInputs.cache
+C:\Users\deboracristina\source\repos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.exe
+C:\Users\deboracristina\source\repos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.pdb
+C:\Users\deboracristina\source\repos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.ucNaveAlien.resources
+C:\Users\deboracristina\source\repos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.ucTiroAlien.resources
+C:\Users\deboracristina\source\repos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frMiniJogo1.resources
+C:\Users\deboracristina\source\repos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.ucAlien.resources
+C:\Users\deboracristina\source\repos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frPontuacao.resources
+C:\Users\deboracristina\source\repos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frTelaMiniJogos.resources
+C:\Users\deboracristina\Videos\N2_Jogo\N2_Jogo\bin\Debug\N2_Jogo.exe.config
+C:\Users\deboracristina\Videos\N2_Jogo\N2_Jogo\bin\Debug\N2_Jogo.exe
+C:\Users\deboracristina\Videos\N2_Jogo\N2_Jogo\bin\Debug\N2_Jogo.pdb
+C:\Users\deboracristina\Videos\N2_Jogo\N2_Jogo\bin\Debug\Interop.WMPLib.dll
+C:\Users\deboracristina\Videos\N2_Jogo\N2_Jogo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\deboracristina\Videos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.csprojAssemblyReference.cache
+C:\Users\deboracristina\Videos\N2_Jogo\N2_Jogo\obj\Debug\Interop.WMPLib.dll
+C:\Users\deboracristina\Videos\N2_Jogo\N2_Jogo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\deboracristina\Videos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.csproj.ResolveComReference.cache
+C:\Users\deboracristina\Videos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frJogoPrincipal.resources
+C:\Users\deboracristina\Videos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frMiniJogo1.resources
+C:\Users\deboracristina\Videos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frPontuacao.resources
+C:\Users\deboracristina\Videos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frTelaAjuda.resources
+C:\Users\deboracristina\Videos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frTelaConfig.resources
+C:\Users\deboracristina\Videos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frTelaInicial.resources
+C:\Users\deboracristina\Videos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frTelaLogin.resources
+C:\Users\deboracristina\Videos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frTelaMiniJogos.resources
+C:\Users\deboracristina\Videos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frTelaRecordes.resources
+C:\Users\deboracristina\Videos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frTelaSobre.resources
+C:\Users\deboracristina\Videos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.Properties.Resources.resources
+C:\Users\deboracristina\Videos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.ucAlien.resources
+C:\Users\deboracristina\Videos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.ucNaveAlien.resources
+C:\Users\deboracristina\Videos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.ucTiroAlien.resources
+C:\Users\deboracristina\Videos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.csproj.GenerateResource.cache
+C:\Users\deboracristina\Videos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.csproj.CoreCompileInputs.cache
+C:\Users\deboracristina\Videos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.exe
+C:\Users\deboracristina\Videos\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.pdb
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\bin\Debug\N2_Jogo.exe.config
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\bin\Debug\N2_Jogo.exe
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\bin\Debug\N2_Jogo.pdb
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\bin\Debug\Interop.WMPLib.dll
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\bin\Debug\AxInterop.WMPLib.dll
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.csproj.AssemblyReference.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\obj\Debug\Interop.WMPLib.dll
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\obj\Debug\AxInterop.WMPLib.dll
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.csproj.ResolveComReference.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frJogoPrincipal.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frMiniJogo1.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frPontuacao.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frTelaAjuda.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frTelaConfig.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frTelaInicial.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frTelaLogin.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frTelaMiniJogos.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frTelaRecordes.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.frTelaSobre.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.Properties.Resources.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.ucAlien.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.ucNaveAlien.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.ucTiroAlien.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.csproj.GenerateResource.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.csproj.CoreCompileInputs.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.exe
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\FERNANDO OLIVEIRA SOARES\N2_Jogo\N2_Jogo\obj\Debug\N2_Jogo.pdb

@@ -1,0 +1,46 @@
+C:\AulaFTT\2021-S1\AlgII\Musicas_E_Sons\Musicas_E_Sons\bin\Debug\Musicas_E_Sons.exe.config
+C:\AulaFTT\2021-S1\AlgII\Musicas_E_Sons\Musicas_E_Sons\bin\Debug\Musicas_E_Sons.exe
+C:\AulaFTT\2021-S1\AlgII\Musicas_E_Sons\Musicas_E_Sons\bin\Debug\Musicas_E_Sons.pdb
+C:\AulaFTT\2021-S1\AlgII\Musicas_E_Sons\Musicas_E_Sons\bin\Debug\Interop.WMPLib.dll
+C:\AulaFTT\2021-S1\AlgII\Musicas_E_Sons\Musicas_E_Sons\bin\Debug\AxInterop.WMPLib.dll
+C:\AulaFTT\2021-S1\AlgII\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Musicas_E_Sons.csprojAssemblyReference.cache
+C:\AulaFTT\2021-S1\AlgII\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Interop.WMPLib.dll
+C:\AulaFTT\2021-S1\AlgII\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\AxInterop.WMPLib.dll
+C:\AulaFTT\2021-S1\AlgII\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Musicas_E_Sons.csproj.ResolveComReference.cache
+C:\AulaFTT\2021-S1\AlgII\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Musicas_E_Sons.Form1.resources
+C:\AulaFTT\2021-S1\AlgII\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Musicas_E_Sons.Properties.Resources.resources
+C:\AulaFTT\2021-S1\AlgII\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Musicas_E_Sons.csproj.GenerateResource.cache
+C:\AulaFTT\2021-S1\AlgII\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Musicas_E_Sons.csproj.CoreCompileInputs.cache
+C:\AulaFTT\2021-S1\AlgII\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Musicas_E_Sons.exe
+C:\AulaFTT\2021-S1\AlgII\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Musicas_E_Sons.pdb
+C:\AulaFTT\2021-S2\AlgII\Musicas_E_Sons\Musicas_E_Sons\bin\Debug\Musicas_E_Sons.exe.config
+C:\AulaFTT\2021-S2\AlgII\Musicas_E_Sons\Musicas_E_Sons\bin\Debug\Musicas_E_Sons.exe
+C:\AulaFTT\2021-S2\AlgII\Musicas_E_Sons\Musicas_E_Sons\bin\Debug\Musicas_E_Sons.pdb
+C:\AulaFTT\2021-S2\AlgII\Musicas_E_Sons\Musicas_E_Sons\bin\Debug\Interop.WMPLib.dll
+C:\AulaFTT\2021-S2\AlgII\Musicas_E_Sons\Musicas_E_Sons\bin\Debug\AxInterop.WMPLib.dll
+C:\AulaFTT\2021-S2\AlgII\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Musicas_E_Sons.csproj.AssemblyReference.cache
+C:\AulaFTT\2021-S2\AlgII\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Interop.WMPLib.dll
+C:\AulaFTT\2021-S2\AlgII\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\AxInterop.WMPLib.dll
+C:\AulaFTT\2021-S2\AlgII\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Musicas_E_Sons.csproj.ResolveComReference.cache
+C:\AulaFTT\2021-S2\AlgII\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Musicas_E_Sons.Form1.resources
+C:\AulaFTT\2021-S2\AlgII\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Musicas_E_Sons.Properties.Resources.resources
+C:\AulaFTT\2021-S2\AlgII\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Musicas_E_Sons.csproj.GenerateResource.cache
+C:\AulaFTT\2021-S2\AlgII\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Musicas_E_Sons.csproj.CoreCompileInputs.cache
+C:\AulaFTT\2021-S2\AlgII\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Musicas_E_Sons.exe
+C:\AulaFTT\2021-S2\AlgII\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Musicas_E_Sons.pdb
+E:\GITHUB\a\EC2\Windows Forms\Exemplos_Professor\Musicas_E_Sons\Musicas_E_Sons\bin\Debug\Musicas_E_Sons.exe.config
+E:\GITHUB\a\EC2\Windows Forms\Exemplos_Professor\Musicas_E_Sons\Musicas_E_Sons\bin\Debug\Musicas_E_Sons.exe
+E:\GITHUB\a\EC2\Windows Forms\Exemplos_Professor\Musicas_E_Sons\Musicas_E_Sons\bin\Debug\Musicas_E_Sons.pdb
+E:\GITHUB\a\EC2\Windows Forms\Exemplos_Professor\Musicas_E_Sons\Musicas_E_Sons\bin\Debug\Interop.WMPLib.dll
+E:\GITHUB\a\EC2\Windows Forms\Exemplos_Professor\Musicas_E_Sons\Musicas_E_Sons\bin\Debug\AxInterop.WMPLib.dll
+E:\GITHUB\a\EC2\Windows Forms\Exemplos_Professor\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Musicas_E_Sons.csproj.AssemblyReference.cache
+E:\GITHUB\a\EC2\Windows Forms\Exemplos_Professor\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Musicas_E_Sons.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\a\EC2\Windows Forms\Exemplos_Professor\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Interop.WMPLib.dll
+E:\GITHUB\a\EC2\Windows Forms\Exemplos_Professor\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\AxInterop.WMPLib.dll
+E:\GITHUB\a\EC2\Windows Forms\Exemplos_Professor\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Musicas_E_Sons.csproj.ResolveComReference.cache
+E:\GITHUB\a\EC2\Windows Forms\Exemplos_Professor\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Musicas_E_Sons.Form1.resources
+E:\GITHUB\a\EC2\Windows Forms\Exemplos_Professor\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Musicas_E_Sons.Properties.Resources.resources
+E:\GITHUB\a\EC2\Windows Forms\Exemplos_Professor\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Musicas_E_Sons.csproj.GenerateResource.cache
+E:\GITHUB\a\EC2\Windows Forms\Exemplos_Professor\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Musicas_E_Sons.csproj.CoreCompileInputs.cache
+E:\GITHUB\a\EC2\Windows Forms\Exemplos_Professor\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Musicas_E_Sons.exe
+E:\GITHUB\a\EC2\Windows Forms\Exemplos_Professor\Musicas_E_Sons\Musicas_E_Sons\obj\Debug\Musicas_E_Sons.pdb

@@ -1,0 +1,20 @@
+C:\Users\joyce\OneDrive\Documentos\WESLEY\EC2\ALGORITMOS\MINI-JOGO JOKENPO\JoKenPo\JoKenPo\bin\Debug\JoKenPo.exe.config
+C:\Users\joyce\OneDrive\Documentos\WESLEY\EC2\ALGORITMOS\MINI-JOGO JOKENPO\JoKenPo\JoKenPo\bin\Debug\JoKenPo.exe
+C:\Users\joyce\OneDrive\Documentos\WESLEY\EC2\ALGORITMOS\MINI-JOGO JOKENPO\JoKenPo\JoKenPo\bin\Debug\JoKenPo.pdb
+C:\Users\joyce\OneDrive\Documentos\WESLEY\EC2\ALGORITMOS\MINI-JOGO JOKENPO\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csprojAssemblyReference.cache
+C:\Users\joyce\OneDrive\Documentos\WESLEY\EC2\ALGORITMOS\MINI-JOGO JOKENPO\JoKenPo\JoKenPo\obj\Debug\JoKenPo.Form1.resources
+C:\Users\joyce\OneDrive\Documentos\WESLEY\EC2\ALGORITMOS\MINI-JOGO JOKENPO\JoKenPo\JoKenPo\obj\Debug\JoKenPo.Properties.Resources.resources
+C:\Users\joyce\OneDrive\Documentos\WESLEY\EC2\ALGORITMOS\MINI-JOGO JOKENPO\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csproj.GenerateResource.cache
+C:\Users\joyce\OneDrive\Documentos\WESLEY\EC2\ALGORITMOS\MINI-JOGO JOKENPO\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csproj.CoreCompileInputs.cache
+C:\Users\joyce\OneDrive\Documentos\WESLEY\EC2\ALGORITMOS\MINI-JOGO JOKENPO\JoKenPo\JoKenPo\obj\Debug\JoKenPo.exe
+C:\Users\joyce\OneDrive\Documentos\WESLEY\EC2\ALGORITMOS\MINI-JOGO JOKENPO\JoKenPo\JoKenPo\obj\Debug\JoKenPo.pdb
+C:\Users\deboracristina\Videos\N2_Jogo\JoKenPo\bin\Debug\JoKenPo.exe.config
+C:\Users\deboracristina\Videos\N2_Jogo\JoKenPo\bin\Debug\JoKenPo.exe
+C:\Users\deboracristina\Videos\N2_Jogo\JoKenPo\bin\Debug\JoKenPo.pdb
+C:\Users\deboracristina\Videos\N2_Jogo\JoKenPo\obj\Debug\JoKenPo.csprojAssemblyReference.cache
+C:\Users\deboracristina\Videos\N2_Jogo\JoKenPo\obj\Debug\JoKenPo.Form1.resources
+C:\Users\deboracristina\Videos\N2_Jogo\JoKenPo\obj\Debug\JoKenPo.Properties.Resources.resources
+C:\Users\deboracristina\Videos\N2_Jogo\JoKenPo\obj\Debug\JoKenPo.csproj.GenerateResource.cache
+C:\Users\deboracristina\Videos\N2_Jogo\JoKenPo\obj\Debug\JoKenPo.csproj.CoreCompileInputs.cache
+C:\Users\deboracristina\Videos\N2_Jogo\JoKenPo\obj\Debug\JoKenPo.exe
+C:\Users\deboracristina\Videos\N2_Jogo\JoKenPo\obj\Debug\JoKenPo.pdb

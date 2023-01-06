@@ -1,0 +1,21 @@
+C:\AulaFTT\2021-S2\AlgII\Componentes_2\Componentes_2\bin\Debug\Componentes_2.exe.config
+C:\AulaFTT\2021-S2\AlgII\Componentes_2\Componentes_2\bin\Debug\Componentes_2.exe
+C:\AulaFTT\2021-S2\AlgII\Componentes_2\Componentes_2\bin\Debug\Componentes_2.pdb
+C:\AulaFTT\2021-S2\AlgII\Componentes_2\Componentes_2\obj\Debug\Componentes_2.csproj.AssemblyReference.cache
+C:\AulaFTT\2021-S2\AlgII\Componentes_2\Componentes_2\obj\Debug\Componentes_2.Form1.resources
+C:\AulaFTT\2021-S2\AlgII\Componentes_2\Componentes_2\obj\Debug\Componentes_2.Properties.Resources.resources
+C:\AulaFTT\2021-S2\AlgII\Componentes_2\Componentes_2\obj\Debug\Componentes_2.csproj.GenerateResource.cache
+C:\AulaFTT\2021-S2\AlgII\Componentes_2\Componentes_2\obj\Debug\Componentes_2.csproj.CoreCompileInputs.cache
+C:\AulaFTT\2021-S2\AlgII\Componentes_2\Componentes_2\obj\Debug\Componentes_2.exe
+C:\AulaFTT\2021-S2\AlgII\Componentes_2\Componentes_2\obj\Debug\Componentes_2.pdb
+E:\GITHUB\a\EC2\Windows Forms\Exemplos_Professor\Componentes_2\Componentes_2\bin\Debug\Componentes_2.exe.config
+E:\GITHUB\a\EC2\Windows Forms\Exemplos_Professor\Componentes_2\Componentes_2\bin\Debug\Componentes_2.exe
+E:\GITHUB\a\EC2\Windows Forms\Exemplos_Professor\Componentes_2\Componentes_2\bin\Debug\Componentes_2.pdb
+E:\GITHUB\a\EC2\Windows Forms\Exemplos_Professor\Componentes_2\Componentes_2\obj\Debug\Componentes_2.csproj.AssemblyReference.cache
+E:\GITHUB\a\EC2\Windows Forms\Exemplos_Professor\Componentes_2\Componentes_2\obj\Debug\Componentes_2.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\a\EC2\Windows Forms\Exemplos_Professor\Componentes_2\Componentes_2\obj\Debug\Componentes_2.Form1.resources
+E:\GITHUB\a\EC2\Windows Forms\Exemplos_Professor\Componentes_2\Componentes_2\obj\Debug\Componentes_2.Properties.Resources.resources
+E:\GITHUB\a\EC2\Windows Forms\Exemplos_Professor\Componentes_2\Componentes_2\obj\Debug\Componentes_2.csproj.GenerateResource.cache
+E:\GITHUB\a\EC2\Windows Forms\Exemplos_Professor\Componentes_2\Componentes_2\obj\Debug\Componentes_2.csproj.CoreCompileInputs.cache
+E:\GITHUB\a\EC2\Windows Forms\Exemplos_Professor\Componentes_2\Componentes_2\obj\Debug\Componentes_2.exe
+E:\GITHUB\a\EC2\Windows Forms\Exemplos_Professor\Componentes_2\Componentes_2\obj\Debug\Componentes_2.pdb

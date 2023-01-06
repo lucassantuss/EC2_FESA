@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex3_NumeroPrimo\bin\Debug\Ex3_NumeroPrimo.exe.config
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex3_NumeroPrimo\bin\Debug\Ex3_NumeroPrimo.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex3_NumeroPrimo\bin\Debug\Ex3_NumeroPrimo.pdb
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex3_NumeroPrimo\obj\Debug\Ex3_NumeroPrimo.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex3_NumeroPrimo\obj\Debug\Ex3_NumeroPrimo.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex3_NumeroPrimo\obj\Debug\Ex3_NumeroPrimo.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex3_NumeroPrimo\obj\Debug\Ex3_NumeroPrimo.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex3_NumeroPrimo\obj\Debug\Ex3_NumeroPrimo.pdb

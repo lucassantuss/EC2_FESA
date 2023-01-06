@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex11_SomaVetor\bin\Debug\Ex11_SomaVetor.exe.config
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex11_SomaVetor\bin\Debug\Ex11_SomaVetor.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex11_SomaVetor\bin\Debug\Ex11_SomaVetor.pdb
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex11_SomaVetor\obj\Debug\Ex11_SomaVetor.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex11_SomaVetor\obj\Debug\Ex11_SomaVetor.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex11_SomaVetor\obj\Debug\Ex11_SomaVetor.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex11_SomaVetor\obj\Debug\Ex11_SomaVetor.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex11_SomaVetor\obj\Debug\Ex11_SomaVetor.pdb

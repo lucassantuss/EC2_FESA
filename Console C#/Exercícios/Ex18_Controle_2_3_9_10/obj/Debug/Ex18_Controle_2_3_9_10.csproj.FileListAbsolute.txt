@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex18_Controle_2_3_9_10\bin\Debug\Ex18_Controle_2_3_9_10.exe.config
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex18_Controle_2_3_9_10\bin\Debug\Ex18_Controle_2_3_9_10.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex18_Controle_2_3_9_10\bin\Debug\Ex18_Controle_2_3_9_10.pdb
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex18_Controle_2_3_9_10\obj\Debug\Ex18_Controle_2_3_9_10.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex18_Controle_2_3_9_10\obj\Debug\Ex18_Controle_2_3_9_10.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex18_Controle_2_3_9_10\obj\Debug\Ex18_Controle_2_3_9_10.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex18_Controle_2_3_9_10\obj\Debug\Ex18_Controle_2_3_9_10.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex18_Controle_2_3_9_10\obj\Debug\Ex18_Controle_2_3_9_10.pdb

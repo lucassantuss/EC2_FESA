@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex5_NomeInvertido\bin\Debug\Ex5_NomeInvertido.exe.config
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex5_NomeInvertido\bin\Debug\Ex5_NomeInvertido.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex5_NomeInvertido\bin\Debug\Ex5_NomeInvertido.pdb
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex5_NomeInvertido\obj\Debug\Ex5_NomeInvertido.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex5_NomeInvertido\obj\Debug\Ex5_NomeInvertido.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex5_NomeInvertido\obj\Debug\Ex5_NomeInvertido.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex5_NomeInvertido\obj\Debug\Ex5_NomeInvertido.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex5_NomeInvertido\obj\Debug\Ex5_NomeInvertido.pdb

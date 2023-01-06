@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex13_DebugOpcaoValida\bin\Debug\Ex13_DebugOpcaoValida.exe.config
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex13_DebugOpcaoValida\bin\Debug\Ex13_DebugOpcaoValida.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex13_DebugOpcaoValida\bin\Debug\Ex13_DebugOpcaoValida.pdb
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex13_DebugOpcaoValida\obj\Debug\Ex13_DebugOpcaoValida.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex13_DebugOpcaoValida\obj\Debug\Ex13_DebugOpcaoValida.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex13_DebugOpcaoValida\obj\Debug\Ex13_DebugOpcaoValida.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex13_DebugOpcaoValida\obj\Debug\Ex13_DebugOpcaoValida.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex13_DebugOpcaoValida\obj\Debug\Ex13_DebugOpcaoValida.pdb

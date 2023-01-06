@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex14_DebugValidaMaiuscula\bin\Debug\Ex14_DebugValidaMaiuscula.exe.config
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex14_DebugValidaMaiuscula\bin\Debug\Ex14_DebugValidaMaiuscula.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex14_DebugValidaMaiuscula\bin\Debug\Ex14_DebugValidaMaiuscula.pdb
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex14_DebugValidaMaiuscula\obj\Debug\Ex14_DebugValidaMaiuscula.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex14_DebugValidaMaiuscula\obj\Debug\Ex14_DebugValidaMaiuscula.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex14_DebugValidaMaiuscula\obj\Debug\Ex14_DebugValidaMaiuscula.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex14_DebugValidaMaiuscula\obj\Debug\Ex14_DebugValidaMaiuscula.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex14_DebugValidaMaiuscula\obj\Debug\Ex14_DebugValidaMaiuscula.pdb

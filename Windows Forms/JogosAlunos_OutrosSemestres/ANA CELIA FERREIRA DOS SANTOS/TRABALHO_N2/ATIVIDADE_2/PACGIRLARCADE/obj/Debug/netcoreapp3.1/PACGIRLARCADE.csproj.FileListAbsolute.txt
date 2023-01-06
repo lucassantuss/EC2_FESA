@@ -1,0 +1,82 @@
+C:\Users\anace\Downloads\PACGIRLARCADE\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.csprojAssemblyReference.cache
+C:\Users\anace\Downloads\PACGIRLARCADE\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Properties.Resources.resources
+C:\Users\anace\Downloads\PACGIRLARCADE\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.csproj.GenerateResource.cache
+C:\Users\anace\Downloads\PACGIRLARCADE\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.AssemblyInfoInputs.cache
+C:\Users\anace\Downloads\PACGIRLARCADE\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.AssemblyInfo.cs
+C:\Users\anace\Downloads\PACGIRLARCADE\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.csproj.CoreCompileInputs.cache
+C:\Users\anace\Downloads\PACGIRLARCADE\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.CadRanking.resources
+C:\Users\anace\Downloads\PACGIRLARCADE\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form2.resources
+C:\Users\anace\Downloads\PACGIRLARCADE\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form3.resources
+C:\Users\anace\Downloads\PACGIRLARCADE\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form4.resources
+C:\Users\anace\Downloads\PACGIRLARCADE\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form5.resources
+C:\Users\anace\Downloads\PACGIRLARCADE\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form6.resources
+C:\Users\anace\Downloads\PACGIRLARCADE\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form7.resources
+C:\Users\anace\Downloads\PACGIRLARCADE\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form8.resources
+C:\Users\anace\Downloads\PACGIRLARCADE\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form9.resources
+C:\Users\anace\Downloads\PACGIRLARCADE\PACGIRLARCADE\bin\Debug\netcoreapp3.1\PACGIRLARCADE.exe
+C:\Users\anace\Downloads\PACGIRLARCADE\PACGIRLARCADE\bin\Debug\netcoreapp3.1\PACGIRLARCADE.deps.json
+C:\Users\anace\Downloads\PACGIRLARCADE\PACGIRLARCADE\bin\Debug\netcoreapp3.1\PACGIRLARCADE.runtimeconfig.json
+C:\Users\anace\Downloads\PACGIRLARCADE\PACGIRLARCADE\bin\Debug\netcoreapp3.1\PACGIRLARCADE.runtimeconfig.dev.json
+C:\Users\anace\Downloads\PACGIRLARCADE\PACGIRLARCADE\bin\Debug\netcoreapp3.1\PACGIRLARCADE.dll
+C:\Users\anace\Downloads\PACGIRLARCADE\PACGIRLARCADE\bin\Debug\netcoreapp3.1\PACGIRLARCADE.pdb
+C:\Users\anace\Downloads\PACGIRLARCADE\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.dll
+C:\Users\anace\Downloads\PACGIRLARCADE\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.pdb
+C:\Users\anace\Downloads\PACGIRLARCADE\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.genruntimeconfig.cache
+C:\Users\anace\Downloads\PACGIRLARCADE\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form11.resources
+C:\Users\anace\Downloads\PacGirlArcade\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form10.resources
+C:\Users\anace\Downloads\PacGirlArcade\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form12.resources
+C:\Users\anace\Downloads\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\bin\Debug\netcoreapp3.1\PACGIRLARCADE.exe
+C:\Users\anace\Downloads\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\bin\Debug\netcoreapp3.1\PACGIRLARCADE.deps.json
+C:\Users\anace\Downloads\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\bin\Debug\netcoreapp3.1\PACGIRLARCADE.runtimeconfig.json
+C:\Users\anace\Downloads\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\bin\Debug\netcoreapp3.1\PACGIRLARCADE.runtimeconfig.dev.json
+C:\Users\anace\Downloads\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\bin\Debug\netcoreapp3.1\PACGIRLARCADE.dll
+C:\Users\anace\Downloads\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\bin\Debug\netcoreapp3.1\PACGIRLARCADE.pdb
+C:\Users\anace\Downloads\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.csprojAssemblyReference.cache
+C:\Users\anace\Downloads\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.CadRanking.resources
+C:\Users\anace\Downloads\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form10.resources
+C:\Users\anace\Downloads\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form11.resources
+C:\Users\anace\Downloads\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form12.resources
+C:\Users\anace\Downloads\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form2.resources
+C:\Users\anace\Downloads\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form3.resources
+C:\Users\anace\Downloads\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form4.resources
+C:\Users\anace\Downloads\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form5.resources
+C:\Users\anace\Downloads\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form6.resources
+C:\Users\anace\Downloads\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form7.resources
+C:\Users\anace\Downloads\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form8.resources
+C:\Users\anace\Downloads\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form9.resources
+C:\Users\anace\Downloads\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Properties.Resources.resources
+C:\Users\anace\Downloads\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.csproj.GenerateResource.cache
+C:\Users\anace\Downloads\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.AssemblyInfoInputs.cache
+C:\Users\anace\Downloads\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.AssemblyInfo.cs
+C:\Users\anace\Downloads\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.csproj.CoreCompileInputs.cache
+C:\Users\anace\Downloads\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.dll
+C:\Users\anace\Downloads\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.pdb
+C:\Users\anace\Downloads\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.genruntimeconfig.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\bin\Debug\netcoreapp3.1\PACGIRLARCADE.exe
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\bin\Debug\netcoreapp3.1\PACGIRLARCADE.deps.json
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\bin\Debug\netcoreapp3.1\PACGIRLARCADE.runtimeconfig.json
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\bin\Debug\netcoreapp3.1\PACGIRLARCADE.runtimeconfig.dev.json
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\bin\Debug\netcoreapp3.1\PACGIRLARCADE.dll
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\bin\Debug\netcoreapp3.1\PACGIRLARCADE.pdb
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.csproj.AssemblyReference.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.CadRanking.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form10.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form11.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form12.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form2.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form3.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form4.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form5.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form6.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form7.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form8.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Form9.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.Properties.Resources.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.csproj.GenerateResource.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.GeneratedMSBuildEditorConfig.editorconfig
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.AssemblyInfoInputs.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.AssemblyInfo.cs
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.csproj.CoreCompileInputs.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.dll
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.pdb
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\ANA CELIA FERREIRA DOS SANTOS ._245212_assignsubmission_file_\TRABALHO_N2\ATIVIDADE_2\PACGIRLARCADE\obj\Debug\netcoreapp3.1\PACGIRLARCADE.genruntimeconfig.cache

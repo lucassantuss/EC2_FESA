@@ -1,0 +1,48 @@
+C:\Users\bruna\source\repos\WF_JogoAdvinhaSom\WF_JogoAdvinhaSom\bin\Debug\WF_JogoAdvinhaSom.exe.config
+C:\Users\bruna\source\repos\WF_JogoAdvinhaSom\WF_JogoAdvinhaSom\bin\Debug\WF_JogoAdvinhaSom.exe
+C:\Users\bruna\source\repos\WF_JogoAdvinhaSom\WF_JogoAdvinhaSom\bin\Debug\WF_JogoAdvinhaSom.pdb
+C:\Users\bruna\source\repos\WF_JogoAdvinhaSom\WF_JogoAdvinhaSom\obj\Debug\WF_JogoAdvinhaSom.csprojAssemblyReference.cache
+C:\Users\bruna\source\repos\WF_JogoAdvinhaSom\WF_JogoAdvinhaSom\obj\Debug\WF_JogoAdvinhaSom.Form1.resources
+C:\Users\bruna\source\repos\WF_JogoAdvinhaSom\WF_JogoAdvinhaSom\obj\Debug\WF_JogoAdvinhaSom.Properties.Resources.resources
+C:\Users\bruna\source\repos\WF_JogoAdvinhaSom\WF_JogoAdvinhaSom\obj\Debug\WF_JogoAdvinhaSom.csproj.GenerateResource.cache
+C:\Users\bruna\source\repos\WF_JogoAdvinhaSom\WF_JogoAdvinhaSom\obj\Debug\WF_JogoAdvinhaSom.csproj.CoreCompileInputs.cache
+C:\Users\bruna\source\repos\WF_JogoAdvinhaSom\WF_JogoAdvinhaSom\obj\Debug\WF_JogoAdvinhaSom.exe
+C:\Users\bruna\source\repos\WF_JogoAdvinhaSom\WF_JogoAdvinhaSom\obj\Debug\WF_JogoAdvinhaSom.pdb
+C:\Users\bruna\source\repos\WF_JogoAdvinhaSom\WF_JogoAdvinhaSom\bin\Debug\Interop.WMPLib.dll
+C:\Users\bruna\source\repos\WF_JogoAdvinhaSom\WF_JogoAdvinhaSom\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\bruna\source\repos\WF_JogoAdvinhaSom\WF_JogoAdvinhaSom\obj\Debug\Interop.WMPLib.dll
+C:\Users\bruna\source\repos\WF_JogoAdvinhaSom\WF_JogoAdvinhaSom\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\bruna\source\repos\WF_JogoAdvinhaSom\WF_JogoAdvinhaSom\obj\Debug\WF_JogoAdvinhaSom.csproj.ResolveComReference.cache
+C:\Users\bruna\source\repos\WF_JogoAdvinhaSom\WF_JogoAdvinhaSom\obj\Debug\WF_JogoAdvinhaSom.Sobre.resources
+C:\Users\User\Desktop\N2 Genius\Jogo N2\WF_JogoAdvinhaSom\bin\Debug\WF_JogoAdvinhaSom.exe.config
+C:\Users\User\Desktop\N2 Genius\Jogo N2\WF_JogoAdvinhaSom\bin\Debug\WF_JogoAdvinhaSom.exe
+C:\Users\User\Desktop\N2 Genius\Jogo N2\WF_JogoAdvinhaSom\bin\Debug\WF_JogoAdvinhaSom.pdb
+C:\Users\User\Desktop\N2 Genius\Jogo N2\WF_JogoAdvinhaSom\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\N2 Genius\Jogo N2\WF_JogoAdvinhaSom\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\N2 Genius\Jogo N2\WF_JogoAdvinhaSom\obj\Debug\WF_JogoAdvinhaSom.csprojAssemblyReference.cache
+C:\Users\User\Desktop\N2 Genius\Jogo N2\WF_JogoAdvinhaSom\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\N2 Genius\Jogo N2\WF_JogoAdvinhaSom\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\N2 Genius\Jogo N2\WF_JogoAdvinhaSom\obj\Debug\WF_JogoAdvinhaSom.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\N2 Genius\Jogo N2\WF_JogoAdvinhaSom\obj\Debug\WF_JogoAdvinhaSom.frmMiniGameAdivinhaSom.resources
+C:\Users\User\Desktop\N2 Genius\Jogo N2\WF_JogoAdvinhaSom\obj\Debug\WF_JogoAdvinhaSom.Properties.Resources.resources
+C:\Users\User\Desktop\N2 Genius\Jogo N2\WF_JogoAdvinhaSom\obj\Debug\WF_JogoAdvinhaSom.frmSobreMinigame.resources
+C:\Users\User\Desktop\N2 Genius\Jogo N2\WF_JogoAdvinhaSom\obj\Debug\WF_JogoAdvinhaSom.csproj.GenerateResource.cache
+C:\Users\User\Desktop\N2 Genius\Jogo N2\WF_JogoAdvinhaSom\obj\Debug\WF_JogoAdvinhaSom.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\N2 Genius\Jogo N2\WF_JogoAdvinhaSom\obj\Debug\WF_JogoAdvinhaSom.exe
+C:\Users\User\Desktop\N2 Genius\Jogo N2\WF_JogoAdvinhaSom\obj\Debug\WF_JogoAdvinhaSom.pdb
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\WF_JogoAdvinhaSom\bin\Debug\WF_JogoAdvinhaSom.exe.config
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\WF_JogoAdvinhaSom\bin\Debug\WF_JogoAdvinhaSom.exe
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\WF_JogoAdvinhaSom\bin\Debug\WF_JogoAdvinhaSom.pdb
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\WF_JogoAdvinhaSom\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\WF_JogoAdvinhaSom\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\WF_JogoAdvinhaSom\obj\Debug\WF_JogoAdvinhaSom.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\WF_JogoAdvinhaSom\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\WF_JogoAdvinhaSom\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\WF_JogoAdvinhaSom\obj\Debug\WF_JogoAdvinhaSom.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\WF_JogoAdvinhaSom\obj\Debug\WF_JogoAdvinhaSom.frmMiniGameAdivinhaSom.resources
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\WF_JogoAdvinhaSom\obj\Debug\WF_JogoAdvinhaSom.Properties.Resources.resources
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\WF_JogoAdvinhaSom\obj\Debug\WF_JogoAdvinhaSom.frmSobreMinigame.resources
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\WF_JogoAdvinhaSom\obj\Debug\WF_JogoAdvinhaSom.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\WF_JogoAdvinhaSom\obj\Debug\WF_JogoAdvinhaSom.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\WF_JogoAdvinhaSom\obj\Debug\WF_JogoAdvinhaSom.exe
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\WF_JogoAdvinhaSom\obj\Debug\WF_JogoAdvinhaSom.pdb

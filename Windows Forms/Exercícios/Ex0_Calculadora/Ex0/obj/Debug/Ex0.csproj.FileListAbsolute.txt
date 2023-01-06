@@ -1,0 +1,21 @@
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex0\Ex0\bin\Debug\Ex0.exe.config
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex0\Ex0\bin\Debug\Ex0.exe
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex0\Ex0\bin\Debug\Ex0.pdb
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex0\Ex0\obj\Debug\Ex0.csprojAssemblyReference.cache
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex0\Ex0\obj\Debug\Ex0.FrmInicial.resources
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex0\Ex0\obj\Debug\Ex0.Properties.Resources.resources
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex0\Ex0\obj\Debug\Ex0.csproj.GenerateResource.cache
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex0\Ex0\obj\Debug\Ex0.csproj.CoreCompileInputs.cache
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex0\Ex0\obj\Debug\Ex0.exe
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex0\Ex0\obj\Debug\Ex0.pdb
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex0_Calculadora\Ex0\bin\Debug\Ex0.exe.config
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex0_Calculadora\Ex0\bin\Debug\Ex0.exe
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex0_Calculadora\Ex0\bin\Debug\Ex0.pdb
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex0_Calculadora\Ex0\obj\Debug\Ex0.csproj.AssemblyReference.cache
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex0_Calculadora\Ex0\obj\Debug\Ex0.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex0_Calculadora\Ex0\obj\Debug\Ex0.FrmInicial.resources
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex0_Calculadora\Ex0\obj\Debug\Ex0.Properties.Resources.resources
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex0_Calculadora\Ex0\obj\Debug\Ex0.csproj.GenerateResource.cache
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex0_Calculadora\Ex0\obj\Debug\Ex0.csproj.CoreCompileInputs.cache
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex0_Calculadora\Ex0\obj\Debug\Ex0.exe
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex0_Calculadora\Ex0\obj\Debug\Ex0.pdb

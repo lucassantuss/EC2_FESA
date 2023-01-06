@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0D6A37C5-7490-45CF-81C3-8DA77B09FA5F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Jogao_N2</RootNamespace>
+    <AssemblyName>Jogao N2</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmFlappyBall.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFlappyBall.Designer.cs">
+      <DependentUpon>FrmFlappyBall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMinigMataPalmeiras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMinigMataPalmeiras.Designer.cs">
+      <DependentUpon>FrmMinigMataPalmeiras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConfiguracoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConfiguracoes.Designer.cs">
+      <DependentUpon>FrmConfiguracoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInicial.Designer.cs">
+      <DependentUpon>FrmInicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNovoJogador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNovoJogador.Designer.cs">
+      <DependentUpon>FrmNovoJogador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPenalti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPenalti.Designer.cs">
+      <DependentUpon>FrmPenalti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPenaltiTut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPenaltiTut.Designer.cs">
+      <DependentUpon>FrmPenaltiTut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrincipal.Designer.cs">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRanking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRanking.Designer.cs">
+      <DependentUpon>FrmRanking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSobre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSobre.Designer.cs">
+      <DependentUpon>FrmSobre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTutorial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTutorial.Designer.cs">
+      <DependentUpon>FrmTutorial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WMPLib\WindowsMediaPlayer.cs" />
+    <EmbeddedResource Include="FrmFlappyBall.resx">
+      <DependentUpon>FrmFlappyBall.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMinigMataPalmeiras.resx">
+      <DependentUpon>FrmMinigMataPalmeiras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConfiguracoes.resx">
+      <DependentUpon>FrmConfiguracoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInicial.resx">
+      <DependentUpon>FrmInicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNovoJogador.resx">
+      <DependentUpon>FrmNovoJogador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPenalti.resx">
+      <DependentUpon>FrmPenalti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPenaltiTut.resx">
+      <DependentUpon>FrmPenaltiTut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRanking.resx">
+      <DependentUpon>FrmRanking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSobre.resx">
+      <DependentUpon>FrmSobre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTutorial.resx">
+      <DependentUpon>FrmTutorial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_fundo_minig_palmeiras.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\200w.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\130253070_106328824601736_6718456248721065003_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\ball.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\ball-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\blogue aniv Silva.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\bolasemfundo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\bolasemfundo-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\dudasv2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\gif bola rolando.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\gramado-grama.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\gramado-grama_Easy-Resize.com %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\jogador.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\jogador-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\S3lLpB.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\palmeiras-logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-palmeiras-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Futebol-Trave-de-Futebol-PNG-COMFUNDO-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crying-89.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Curinthians.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jogador-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\palmeiras-logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kids.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\globoesporte.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\goldocurintia.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tiro.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\corinthians.wav" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

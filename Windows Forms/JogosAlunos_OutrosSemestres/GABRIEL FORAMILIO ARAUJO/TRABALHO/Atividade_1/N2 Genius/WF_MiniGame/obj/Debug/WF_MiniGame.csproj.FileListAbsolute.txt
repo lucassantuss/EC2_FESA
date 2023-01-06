@@ -1,0 +1,30 @@
+C:\Users\bruna\source\repos\WF_MiniGame\WF_MiniGame\bin\Debug\WF_MiniGame.exe.config
+C:\Users\bruna\source\repos\WF_MiniGame\WF_MiniGame\bin\Debug\WF_MiniGame.exe
+C:\Users\bruna\source\repos\WF_MiniGame\WF_MiniGame\bin\Debug\WF_MiniGame.pdb
+C:\Users\bruna\source\repos\WF_MiniGame\WF_MiniGame\obj\Debug\WF_MiniGame.csprojAssemblyReference.cache
+C:\Users\bruna\source\repos\WF_MiniGame\WF_MiniGame\obj\Debug\WF_MiniGame.Form1.resources
+C:\Users\bruna\source\repos\WF_MiniGame\WF_MiniGame\obj\Debug\WF_MiniGame.Properties.Resources.resources
+C:\Users\bruna\source\repos\WF_MiniGame\WF_MiniGame\obj\Debug\WF_MiniGame.csproj.GenerateResource.cache
+C:\Users\bruna\source\repos\WF_MiniGame\WF_MiniGame\obj\Debug\WF_MiniGame.csproj.CoreCompileInputs.cache
+C:\Users\bruna\source\repos\WF_MiniGame\WF_MiniGame\obj\Debug\WF_MiniGame.exe
+C:\Users\bruna\source\repos\WF_MiniGame\WF_MiniGame\obj\Debug\WF_MiniGame.pdb
+C:\Users\User\Desktop\N2 Genius\Jogo N2\WF_MiniGame\bin\Debug\WF_MiniGame.exe.config
+C:\Users\User\Desktop\N2 Genius\Jogo N2\WF_MiniGame\bin\Debug\WF_MiniGame.exe
+C:\Users\User\Desktop\N2 Genius\Jogo N2\WF_MiniGame\bin\Debug\WF_MiniGame.pdb
+C:\Users\User\Desktop\N2 Genius\Jogo N2\WF_MiniGame\obj\Debug\WF_MiniGame.csprojAssemblyReference.cache
+C:\Users\User\Desktop\N2 Genius\Jogo N2\WF_MiniGame\obj\Debug\WF_MiniGame.frmMinigameSorteio.resources
+C:\Users\User\Desktop\N2 Genius\Jogo N2\WF_MiniGame\obj\Debug\WF_MiniGame.Properties.Resources.resources
+C:\Users\User\Desktop\N2 Genius\Jogo N2\WF_MiniGame\obj\Debug\WF_MiniGame.csproj.GenerateResource.cache
+C:\Users\User\Desktop\N2 Genius\Jogo N2\WF_MiniGame\obj\Debug\WF_MiniGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\N2 Genius\Jogo N2\WF_MiniGame\obj\Debug\WF_MiniGame.exe
+C:\Users\User\Desktop\N2 Genius\Jogo N2\WF_MiniGame\obj\Debug\WF_MiniGame.pdb
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\WF_MiniGame\bin\Debug\WF_MiniGame.exe.config
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\WF_MiniGame\bin\Debug\WF_MiniGame.exe
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\WF_MiniGame\bin\Debug\WF_MiniGame.pdb
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\WF_MiniGame\obj\Debug\WF_MiniGame.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\WF_MiniGame\obj\Debug\WF_MiniGame.frmMinigameSorteio.resources
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\WF_MiniGame\obj\Debug\WF_MiniGame.Properties.Resources.resources
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\WF_MiniGame\obj\Debug\WF_MiniGame.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\WF_MiniGame\obj\Debug\WF_MiniGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\WF_MiniGame\obj\Debug\WF_MiniGame.exe
+C:\Users\User\Desktop\TRABALHO\Atividade_1\N2 Genius\WF_MiniGame\obj\Debug\WF_MiniGame.pdb

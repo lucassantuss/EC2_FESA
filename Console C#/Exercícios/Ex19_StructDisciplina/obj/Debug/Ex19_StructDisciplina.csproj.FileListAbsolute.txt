@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex19_StructDisciplina\bin\Debug\Ex19_StructDisciplina.exe.config
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex19_StructDisciplina\bin\Debug\Ex19_StructDisciplina.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex19_StructDisciplina\bin\Debug\Ex19_StructDisciplina.pdb
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex19_StructDisciplina\obj\Debug\Ex19_StructDisciplina.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex19_StructDisciplina\obj\Debug\Ex19_StructDisciplina.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex19_StructDisciplina\obj\Debug\Ex19_StructDisciplina.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex19_StructDisciplina\obj\Debug\Ex19_StructDisciplina.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex19_StructDisciplina\obj\Debug\Ex19_StructDisciplina.pdb

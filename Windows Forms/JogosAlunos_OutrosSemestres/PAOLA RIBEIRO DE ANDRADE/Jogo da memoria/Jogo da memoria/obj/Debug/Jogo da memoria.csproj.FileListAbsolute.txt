@@ -1,0 +1,30 @@
+C:\Users\pahri\source\repos\Jogo da memoria\Jogo da memoria\bin\Debug\Jogo da memoria.exe.config
+C:\Users\pahri\source\repos\Jogo da memoria\Jogo da memoria\bin\Debug\Jogo da memoria.exe
+C:\Users\pahri\source\repos\Jogo da memoria\Jogo da memoria\bin\Debug\Jogo da memoria.pdb
+C:\Users\pahri\source\repos\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo da memoria.csprojAssemblyReference.cache
+C:\Users\pahri\source\repos\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo_da_memoria.Properties.Resources.resources
+C:\Users\pahri\source\repos\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.GenerateResource.cache
+C:\Users\pahri\source\repos\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.CoreCompileInputs.cache
+C:\Users\pahri\source\repos\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo da memoria.exe
+C:\Users\pahri\source\repos\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo da memoria.pdb
+C:\Users\pahri\source\repos\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo_da_memoria.memorygame.resources
+C:\Users\Usuario\Desktop\Jogo da memoria\Jogo da memoria\bin\Debug\Jogo da memoria.exe.config
+C:\Users\Usuario\Desktop\Jogo da memoria\Jogo da memoria\bin\Debug\Jogo da memoria.exe
+C:\Users\Usuario\Desktop\Jogo da memoria\Jogo da memoria\bin\Debug\Jogo da memoria.pdb
+C:\Users\Usuario\Desktop\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo da memoria.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo_da_memoria.memorygame.resources
+C:\Users\Usuario\Desktop\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo_da_memoria.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo da memoria.exe
+C:\Users\Usuario\Desktop\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo da memoria.pdb
+C:\Users\pahri\Downloads\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo da memoria\Jogo da memoria\bin\Debug\Jogo da memoria.exe.config
+C:\Users\pahri\Downloads\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo da memoria\Jogo da memoria\bin\Debug\Jogo da memoria.exe
+C:\Users\pahri\Downloads\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo da memoria\Jogo da memoria\bin\Debug\Jogo da memoria.pdb
+C:\Users\pahri\Downloads\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo da memoria.csprojAssemblyReference.cache
+C:\Users\pahri\Downloads\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo_da_memoria.memorygame.resources
+C:\Users\pahri\Downloads\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo_da_memoria.Properties.Resources.resources
+C:\Users\pahri\Downloads\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.GenerateResource.cache
+C:\Users\pahri\Downloads\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.CoreCompileInputs.cache
+C:\Users\pahri\Downloads\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo da memoria.exe
+C:\Users\pahri\Downloads\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo da memoria.pdb

@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex8_ValidaEmail\bin\Debug\Ex8_ValidaEmail.exe.config
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex8_ValidaEmail\bin\Debug\Ex8_ValidaEmail.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex8_ValidaEmail\bin\Debug\Ex8_ValidaEmail.pdb
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex8_ValidaEmail\obj\Debug\Ex8_ValidaEmail.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex8_ValidaEmail\obj\Debug\Ex8_ValidaEmail.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex8_ValidaEmail\obj\Debug\Ex8_ValidaEmail.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex8_ValidaEmail\obj\Debug\Ex8_ValidaEmail.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex8_ValidaEmail\obj\Debug\Ex8_ValidaEmail.pdb

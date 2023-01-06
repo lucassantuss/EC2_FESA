@@ -1,0 +1,31 @@
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex3\Ex3\bin\Debug\Ex3.exe.config
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex3\Ex3\bin\Debug\Ex3.exe
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex3\Ex3\bin\Debug\Ex3.pdb
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex3\Ex3\obj\Debug\Ex3.csprojAssemblyReference.cache
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex3\Ex3\obj\Debug\Ex3.FrmInicial.resources
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex3\Ex3\obj\Debug\Ex3.Properties.Resources.resources
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex3\Ex3\obj\Debug\Ex3.csproj.GenerateResource.cache
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex3\Ex3\obj\Debug\Ex3.csproj.CoreCompileInputs.cache
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex3\Ex3\obj\Debug\Ex3.exe
+D:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex3\Ex3\obj\Debug\Ex3.pdb
+E:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex3\Ex3\bin\Debug\Ex3.exe.config
+E:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex3\Ex3\bin\Debug\Ex3.exe
+E:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex3\Ex3\bin\Debug\Ex3.pdb
+E:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex3\Ex3\obj\Debug\Ex3.csprojAssemblyReference.cache
+E:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex3\Ex3\obj\Debug\Ex3.FrmInicial.resources
+E:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex3\Ex3\obj\Debug\Ex3.Properties.Resources.resources
+E:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex3\Ex3\obj\Debug\Ex3.csproj.GenerateResource.cache
+E:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex3\Ex3\obj\Debug\Ex3.csproj.CoreCompileInputs.cache
+E:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex3\Ex3\obj\Debug\Ex3.exe
+E:\Escola\FTT\EC2\Algoritmos II\Windows Forms\Exercícios 1\Ex3\Ex3\obj\Debug\Ex3.pdb
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex3_CadastroFuncionario\Ex3\bin\Debug\Ex3.exe.config
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex3_CadastroFuncionario\Ex3\bin\Debug\Ex3.exe
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex3_CadastroFuncionario\Ex3\bin\Debug\Ex3.pdb
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex3_CadastroFuncionario\Ex3\obj\Debug\Ex3.csproj.AssemblyReference.cache
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex3_CadastroFuncionario\Ex3\obj\Debug\Ex3.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex3_CadastroFuncionario\Ex3\obj\Debug\Ex3.FrmInicial.resources
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex3_CadastroFuncionario\Ex3\obj\Debug\Ex3.Properties.Resources.resources
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex3_CadastroFuncionario\Ex3\obj\Debug\Ex3.csproj.GenerateResource.cache
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex3_CadastroFuncionario\Ex3\obj\Debug\Ex3.csproj.CoreCompileInputs.cache
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex3_CadastroFuncionario\Ex3\obj\Debug\Ex3.exe
+E:\GITHUB\a\EC2\Windows Forms\Exercícios\Ex3_CadastroFuncionario\Ex3\obj\Debug\Ex3.pdb

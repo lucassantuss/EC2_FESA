@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex2_ParImpar\bin\Debug\Ex2_ParImpar.exe.config
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex2_ParImpar\bin\Debug\Ex2_ParImpar.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex2_ParImpar\bin\Debug\Ex2_ParImpar.pdb
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex2_ParImpar\obj\Debug\Ex2_ParImpar.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex2_ParImpar\obj\Debug\Ex2_ParImpar.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex2_ParImpar\obj\Debug\Ex2_ParImpar.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex2_ParImpar\obj\Debug\Ex2_ParImpar.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex2_ParImpar\obj\Debug\Ex2_ParImpar.pdb

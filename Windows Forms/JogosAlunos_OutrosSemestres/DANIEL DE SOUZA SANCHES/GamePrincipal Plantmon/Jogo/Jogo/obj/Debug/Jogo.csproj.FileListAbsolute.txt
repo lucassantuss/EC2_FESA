@@ -1,0 +1,55 @@
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon\Jogo\Jogo\bin\Debug\Jogo.exe.config
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon\Jogo\Jogo\bin\Debug\Jogo.exe
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon\Jogo\Jogo\bin\Debug\Jogo.pdb
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon\Jogo\Jogo\obj\Debug\Jogo.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon\Jogo\Jogo\obj\Debug\Jogo.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon\Jogo\Jogo\obj\Debug\Jogo.exe
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon\Jogo\Jogo\obj\Debug\Jogo.pdb
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon\Jogo\Jogo\bin\Debug\Control.Draggable.dll
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon\Jogo\Jogo\obj\Debug\Jogo.csproj.CopyComplete
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon\Jogo\Jogo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon\Jogo\Jogo\obj\Debug\Jogo.Sobre.resources
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon\Jogo\Jogo\obj\Debug\Jogo.Howtoplay.resources
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon\Jogo\Jogo\obj\Debug\Jogo.Recorde.resources
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon\Jogo\Jogo\obj\Debug\Jogo.Salva.resources
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon\Jogo\Jogo\obj\Debug\Jogo.Principal.resources
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon\Jogo\Jogo\obj\Debug\Jogo.Game.resources
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon - Copia\Jogo\Jogo\bin\Debug\Jogo.exe.config
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon - Copia\Jogo\Jogo\bin\Debug\Jogo.exe
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon - Copia\Jogo\Jogo\bin\Debug\Jogo.pdb
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon - Copia\Jogo\Jogo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon - Copia\Jogo\Jogo\bin\Debug\Control.Draggable.dll
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon - Copia\Jogo\Jogo\obj\Debug\Jogo.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon - Copia\Jogo\Jogo\obj\Debug\Jogo.Game.resources
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon - Copia\Jogo\Jogo\obj\Debug\Jogo.Principal.resources
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon - Copia\Jogo\Jogo\obj\Debug\Jogo.Recorde.resources
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon - Copia\Jogo\Jogo\obj\Debug\Jogo.Salva.resources
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon - Copia\Jogo\Jogo\obj\Debug\Jogo.Sobre.resources
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon - Copia\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon - Copia\Jogo\Jogo\obj\Debug\Jogo.Howtoplay.resources
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon - Copia\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon - Copia\Jogo\Jogo\obj\Debug\Jogo.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon - Copia\Jogo\Jogo\obj\Debug\Jogo.csproj.CopyComplete
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon - Copia\Jogo\Jogo\obj\Debug\Jogo.exe
+C:\Users\danie\OneDrive\Desktop\Trab Algoritmos - Jogo Pokemon - Copia\Jogo\Jogo\obj\Debug\Jogo.pdb
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\DANIEL DE SOUZA SANCHES\GamePrincipal Plantmon\Jogo\Jogo\bin\Debug\Jogo.exe.config
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\DANIEL DE SOUZA SANCHES\GamePrincipal Plantmon\Jogo\Jogo\bin\Debug\Jogo.exe
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\DANIEL DE SOUZA SANCHES\GamePrincipal Plantmon\Jogo\Jogo\bin\Debug\Jogo.pdb
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\DANIEL DE SOUZA SANCHES\GamePrincipal Plantmon\Jogo\Jogo\bin\Debug\AxInterop.WMPLib.dll
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\DANIEL DE SOUZA SANCHES\GamePrincipal Plantmon\Jogo\Jogo\bin\Debug\Control.Draggable.dll
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\DANIEL DE SOUZA SANCHES\GamePrincipal Plantmon\Jogo\Jogo\obj\Debug\Jogo.csproj.AssemblyReference.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\DANIEL DE SOUZA SANCHES\GamePrincipal Plantmon\Jogo\Jogo\obj\Debug\Jogo.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\DANIEL DE SOUZA SANCHES\GamePrincipal Plantmon\Jogo\Jogo\obj\Debug\Jogo.Game.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\DANIEL DE SOUZA SANCHES\GamePrincipal Plantmon\Jogo\Jogo\obj\Debug\Jogo.Principal.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\DANIEL DE SOUZA SANCHES\GamePrincipal Plantmon\Jogo\Jogo\obj\Debug\Jogo.Recorde.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\DANIEL DE SOUZA SANCHES\GamePrincipal Plantmon\Jogo\Jogo\obj\Debug\Jogo.Salva.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\DANIEL DE SOUZA SANCHES\GamePrincipal Plantmon\Jogo\Jogo\obj\Debug\Jogo.Sobre.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\DANIEL DE SOUZA SANCHES\GamePrincipal Plantmon\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\DANIEL DE SOUZA SANCHES\GamePrincipal Plantmon\Jogo\Jogo\obj\Debug\Jogo.Howtoplay.resources
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\DANIEL DE SOUZA SANCHES\GamePrincipal Plantmon\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\DANIEL DE SOUZA SANCHES\GamePrincipal Plantmon\Jogo\Jogo\obj\Debug\Jogo.csproj.CoreCompileInputs.cache
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\DANIEL DE SOUZA SANCHES\GamePrincipal Plantmon\Jogo\Jogo\obj\Debug\Jogo.csproj.CopyComplete
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\DANIEL DE SOUZA SANCHES\GamePrincipal Plantmon\Jogo\Jogo\obj\Debug\Jogo.exe
+E:\GITHUB\a\EC2\Windows Forms\Jogos dos Alunos de Outros Semestres\DANIEL DE SOUZA SANCHES\GamePrincipal Plantmon\Jogo\Jogo\obj\Debug\Jogo.pdb

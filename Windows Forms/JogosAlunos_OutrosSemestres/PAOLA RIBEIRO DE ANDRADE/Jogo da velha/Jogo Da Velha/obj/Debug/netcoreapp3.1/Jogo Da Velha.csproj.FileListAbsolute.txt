@@ -1,0 +1,64 @@
+C:\Users\Marcos Felipe\source\repos\Jogo Da Velha\Jogo Da Velha\bin\Debug\netcoreapp3.1\Jogo Da Velha.exe
+C:\Users\Marcos Felipe\source\repos\Jogo Da Velha\Jogo Da Velha\bin\Debug\netcoreapp3.1\Jogo Da Velha.deps.json
+C:\Users\Marcos Felipe\source\repos\Jogo Da Velha\Jogo Da Velha\bin\Debug\netcoreapp3.1\Jogo Da Velha.runtimeconfig.json
+C:\Users\Marcos Felipe\source\repos\Jogo Da Velha\Jogo Da Velha\bin\Debug\netcoreapp3.1\Jogo Da Velha.runtimeconfig.dev.json
+C:\Users\Marcos Felipe\source\repos\Jogo Da Velha\Jogo Da Velha\bin\Debug\netcoreapp3.1\Jogo Da Velha.dll
+C:\Users\Marcos Felipe\source\repos\Jogo Da Velha\Jogo Da Velha\bin\Debug\netcoreapp3.1\Jogo Da Velha.pdb
+C:\Users\Marcos Felipe\source\repos\Jogo Da Velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.csprojAssemblyReference.cache
+C:\Users\Marcos Felipe\source\repos\Jogo Da Velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo_Da_Velha.Form1.resources
+C:\Users\Marcos Felipe\source\repos\Jogo Da Velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.csproj.GenerateResource.cache
+C:\Users\Marcos Felipe\source\repos\Jogo Da Velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.AssemblyInfoInputs.cache
+C:\Users\Marcos Felipe\source\repos\Jogo Da Velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.AssemblyInfo.cs
+C:\Users\Marcos Felipe\source\repos\Jogo Da Velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Felipe\source\repos\Jogo Da Velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.dll
+C:\Users\Marcos Felipe\source\repos\Jogo Da Velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.pdb
+C:\Users\Marcos Felipe\source\repos\Jogo Da Velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.genruntimeconfig.cache
+C:\Users\Marcos Felipe\source\repos\Jogo Da Velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo_Da_Velha.Properties.Resources.resources
+C:\Users\Marcos Felipe\Desktop\Jogo Da Velha\Jogo Da Velha\bin\Debug\netcoreapp3.1\Jogo Da Velha.exe
+C:\Users\Marcos Felipe\Desktop\Jogo Da Velha\Jogo Da Velha\bin\Debug\netcoreapp3.1\Jogo Da Velha.deps.json
+C:\Users\Marcos Felipe\Desktop\Jogo Da Velha\Jogo Da Velha\bin\Debug\netcoreapp3.1\Jogo Da Velha.runtimeconfig.json
+C:\Users\Marcos Felipe\Desktop\Jogo Da Velha\Jogo Da Velha\bin\Debug\netcoreapp3.1\Jogo Da Velha.runtimeconfig.dev.json
+C:\Users\Marcos Felipe\Desktop\Jogo Da Velha\Jogo Da Velha\bin\Debug\netcoreapp3.1\Jogo Da Velha.dll
+C:\Users\Marcos Felipe\Desktop\Jogo Da Velha\Jogo Da Velha\bin\Debug\netcoreapp3.1\Jogo Da Velha.pdb
+C:\Users\Marcos Felipe\Desktop\Jogo Da Velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.csprojAssemblyReference.cache
+C:\Users\Marcos Felipe\Desktop\Jogo Da Velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo_Da_Velha.Form1.resources
+C:\Users\Marcos Felipe\Desktop\Jogo Da Velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo_Da_Velha.Properties.Resources.resources
+C:\Users\Marcos Felipe\Desktop\Jogo Da Velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.csproj.GenerateResource.cache
+C:\Users\Marcos Felipe\Desktop\Jogo Da Velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.AssemblyInfoInputs.cache
+C:\Users\Marcos Felipe\Desktop\Jogo Da Velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.AssemblyInfo.cs
+C:\Users\Marcos Felipe\Desktop\Jogo Da Velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Felipe\Desktop\Jogo Da Velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.dll
+C:\Users\Marcos Felipe\Desktop\Jogo Da Velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.pdb
+C:\Users\Marcos Felipe\Desktop\Jogo Da Velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Jogo da velha\Jogo Da Velha\bin\Debug\netcoreapp3.1\Jogo Da Velha.exe
+C:\Users\Usuario\Desktop\Jogo da velha\Jogo Da Velha\bin\Debug\netcoreapp3.1\Jogo Da Velha.deps.json
+C:\Users\Usuario\Desktop\Jogo da velha\Jogo Da Velha\bin\Debug\netcoreapp3.1\Jogo Da Velha.runtimeconfig.json
+C:\Users\Usuario\Desktop\Jogo da velha\Jogo Da Velha\bin\Debug\netcoreapp3.1\Jogo Da Velha.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Jogo da velha\Jogo Da Velha\bin\Debug\netcoreapp3.1\Jogo Da Velha.dll
+C:\Users\Usuario\Desktop\Jogo da velha\Jogo Da Velha\bin\Debug\netcoreapp3.1\Jogo Da Velha.pdb
+C:\Users\Usuario\Desktop\Jogo da velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Jogo da velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo_Da_Velha.Form1.resources
+C:\Users\Usuario\Desktop\Jogo da velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo_Da_Velha.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Jogo da velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Jogo da velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Jogo da velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Jogo da velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Jogo da velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.dll
+C:\Users\Usuario\Desktop\Jogo da velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.pdb
+C:\Users\Usuario\Desktop\Jogo da velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.genruntimeconfig.cache
+C:\Users\pahri\Downloads\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo da velha\Jogo Da Velha\bin\Debug\netcoreapp3.1\Jogo Da Velha.exe
+C:\Users\pahri\Downloads\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo da velha\Jogo Da Velha\bin\Debug\netcoreapp3.1\Jogo Da Velha.deps.json
+C:\Users\pahri\Downloads\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo da velha\Jogo Da Velha\bin\Debug\netcoreapp3.1\Jogo Da Velha.runtimeconfig.json
+C:\Users\pahri\Downloads\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo da velha\Jogo Da Velha\bin\Debug\netcoreapp3.1\Jogo Da Velha.runtimeconfig.dev.json
+C:\Users\pahri\Downloads\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo da velha\Jogo Da Velha\bin\Debug\netcoreapp3.1\Jogo Da Velha.dll
+C:\Users\pahri\Downloads\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo da velha\Jogo Da Velha\bin\Debug\netcoreapp3.1\Jogo Da Velha.pdb
+C:\Users\pahri\Downloads\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo da velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.csprojAssemblyReference.cache
+C:\Users\pahri\Downloads\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo da velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo_Da_Velha.Form1.resources
+C:\Users\pahri\Downloads\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo da velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo_Da_Velha.Properties.Resources.resources
+C:\Users\pahri\Downloads\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo da velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.csproj.GenerateResource.cache
+C:\Users\pahri\Downloads\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo da velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.AssemblyInfoInputs.cache
+C:\Users\pahri\Downloads\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo da velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.AssemblyInfo.cs
+C:\Users\pahri\Downloads\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo da velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.csproj.CoreCompileInputs.cache
+C:\Users\pahri\Downloads\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo da velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.dll
+C:\Users\pahri\Downloads\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo da velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.pdb
+C:\Users\pahri\Downloads\N2JOGO - ArthurPaolaDuarteMarcos\N2JOGO - ArthurPaolaDuarteMarcos\Jogo da velha\Jogo Da Velha\obj\Debug\netcoreapp3.1\Jogo Da Velha.genruntimeconfig.cache

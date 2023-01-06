@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex1_PrimeiroNome\bin\Debug\Ex1_PrimeiroNome.exe.config
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex1_PrimeiroNome\bin\Debug\Ex1_PrimeiroNome.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex1_PrimeiroNome\bin\Debug\Ex1_PrimeiroNome.pdb
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex1_PrimeiroNome\obj\Debug\Ex1_PrimeiroNome.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex1_PrimeiroNome\obj\Debug\Ex1_PrimeiroNome.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex1_PrimeiroNome\obj\Debug\Ex1_PrimeiroNome.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex1_PrimeiroNome\obj\Debug\Ex1_PrimeiroNome.exe
+E:\GITHUB\FESA\EC2\Console C#\Exercícios\Ex1_PrimeiroNome\obj\Debug\Ex1_PrimeiroNome.pdb
