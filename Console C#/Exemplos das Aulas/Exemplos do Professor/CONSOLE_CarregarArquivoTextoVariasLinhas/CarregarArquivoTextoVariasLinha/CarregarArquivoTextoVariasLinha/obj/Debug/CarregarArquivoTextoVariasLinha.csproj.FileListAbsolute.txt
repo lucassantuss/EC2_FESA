@@ -1,1 +1,0 @@
-C:\EDUARDO\ALGORITMOS\CarregarArquivoTextoVariasLinha\CarregarArquivoTextoVariasLinha\CarregarArquivoTextoVariasLinha\bin\Debug\CarregarArquivoTextoVariasLinha.exe.config

@@ -1,0 +1,7 @@
+C:\Users\Lucas\Desktop\N1 - Algoritmos\Ex2_N1\Ex2_N1\bin\Debug\Ex2_N1.exe.config
+C:\Users\Lucas\Desktop\N1 - Algoritmos\Ex2_N1\Ex2_N1\bin\Debug\Ex2_N1.exe
+C:\Users\Lucas\Desktop\N1 - Algoritmos\Ex2_N1\Ex2_N1\bin\Debug\Ex2_N1.pdb
+C:\Users\Lucas\Desktop\N1 - Algoritmos\Ex2_N1\Ex2_N1\obj\Debug\Ex2_N1.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\N1 - Algoritmos\Ex2_N1\Ex2_N1\obj\Debug\Ex2_N1.exe
+C:\Users\Lucas\Desktop\N1 - Algoritmos\Ex2_N1\Ex2_N1\obj\Debug\Ex2_N1.pdb
+C:\Users\Lucas\Desktop\N1 - Algoritmos\Ex2_N1\Ex2_N1\obj\Debug\Ex2_N1.csprojAssemblyReference.cache

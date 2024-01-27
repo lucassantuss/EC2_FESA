@@ -1,0 +1,42 @@
+E:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\bin\Debug\netcoreapp3.1\Ex5.exe
+E:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\bin\Debug\netcoreapp3.1\Ex5.deps.json
+E:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\bin\Debug\netcoreapp3.1\Ex5.runtimeconfig.json
+E:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\bin\Debug\netcoreapp3.1\Ex5.runtimeconfig.dev.json
+E:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\bin\Debug\netcoreapp3.1\Ex5.dll
+E:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\bin\Debug\netcoreapp3.1\Ex5.pdb
+E:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.csproj.AssemblyReference.cache
+E:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.GeneratedMSBuildEditorConfig.editorconfig
+E:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.AssemblyInfoInputs.cache
+E:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.AssemblyInfo.cs
+E:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.csproj.CoreCompileInputs.cache
+E:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.dll
+E:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.pdb
+E:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.genruntimeconfig.cache
+F:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\bin\Debug\netcoreapp3.1\Ex5.exe
+F:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\bin\Debug\netcoreapp3.1\Ex5.deps.json
+F:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\bin\Debug\netcoreapp3.1\Ex5.runtimeconfig.json
+F:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\bin\Debug\netcoreapp3.1\Ex5.runtimeconfig.dev.json
+F:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\bin\Debug\netcoreapp3.1\Ex5.dll
+F:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\bin\Debug\netcoreapp3.1\Ex5.pdb
+F:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.csproj.AssemblyReference.cache
+F:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.GeneratedMSBuildEditorConfig.editorconfig
+F:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.AssemblyInfoInputs.cache
+F:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.AssemblyInfo.cs
+F:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.csproj.CoreCompileInputs.cache
+F:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.dll
+F:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.pdb
+F:\FTT\EC3\Programação Orientada à Objetos\Atividades\Exercícios POO\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.genruntimeconfig.cache
+C:\Users\lucas\Downloads\Ex5\Ex5\bin\Debug\netcoreapp3.1\Ex5.exe
+C:\Users\lucas\Downloads\Ex5\Ex5\bin\Debug\netcoreapp3.1\Ex5.deps.json
+C:\Users\lucas\Downloads\Ex5\Ex5\bin\Debug\netcoreapp3.1\Ex5.runtimeconfig.json
+C:\Users\lucas\Downloads\Ex5\Ex5\bin\Debug\netcoreapp3.1\Ex5.runtimeconfig.dev.json
+C:\Users\lucas\Downloads\Ex5\Ex5\bin\Debug\netcoreapp3.1\Ex5.dll
+C:\Users\lucas\Downloads\Ex5\Ex5\bin\Debug\netcoreapp3.1\Ex5.pdb
+C:\Users\lucas\Downloads\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.csproj.AssemblyReference.cache
+C:\Users\lucas\Downloads\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Downloads\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.AssemblyInfoInputs.cache
+C:\Users\lucas\Downloads\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.AssemblyInfo.cs
+C:\Users\lucas\Downloads\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.dll
+C:\Users\lucas\Downloads\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.pdb
+C:\Users\lucas\Downloads\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.genruntimeconfig.cache

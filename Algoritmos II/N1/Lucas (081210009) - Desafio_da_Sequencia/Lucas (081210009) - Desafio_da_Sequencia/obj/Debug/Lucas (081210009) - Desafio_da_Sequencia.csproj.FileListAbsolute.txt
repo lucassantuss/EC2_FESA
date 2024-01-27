@@ -1,0 +1,7 @@
+D:\Escola\FTT\EC2\Algoritmos II\Códigos C#\N1\Lucas (081210009) - Desafio_da_Sequencia\Lucas (081210009) - Desafio_da_Sequencia\obj\Debug\Lucas (081210009) - Desafio_da_Sequencia.csprojAssemblyReference.cache
+D:\Escola\FTT\EC2\Algoritmos II\Códigos C#\N1\Lucas (081210009) - Desafio_da_Sequencia\Lucas (081210009) - Desafio_da_Sequencia\obj\Debug\Lucas (081210009) - Desafio_da_Sequencia.csproj.CoreCompileInputs.cache
+D:\Escola\FTT\EC2\Algoritmos II\Códigos C#\N1\Lucas (081210009) - Desafio_da_Sequencia\Lucas (081210009) - Desafio_da_Sequencia\bin\Debug\Lucas (081210009) - Desafio_da_Sequencia.exe.config
+D:\Escola\FTT\EC2\Algoritmos II\Códigos C#\N1\Lucas (081210009) - Desafio_da_Sequencia\Lucas (081210009) - Desafio_da_Sequencia\bin\Debug\Lucas (081210009) - Desafio_da_Sequencia.exe
+D:\Escola\FTT\EC2\Algoritmos II\Códigos C#\N1\Lucas (081210009) - Desafio_da_Sequencia\Lucas (081210009) - Desafio_da_Sequencia\bin\Debug\Lucas (081210009) - Desafio_da_Sequencia.pdb
+D:\Escola\FTT\EC2\Algoritmos II\Códigos C#\N1\Lucas (081210009) - Desafio_da_Sequencia\Lucas (081210009) - Desafio_da_Sequencia\obj\Debug\Lucas (081210009) - Desafio_da_Sequencia.exe
+D:\Escola\FTT\EC2\Algoritmos II\Códigos C#\N1\Lucas (081210009) - Desafio_da_Sequencia\Lucas (081210009) - Desafio_da_Sequencia\obj\Debug\Lucas (081210009) - Desafio_da_Sequencia.pdb

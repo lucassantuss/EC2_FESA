@@ -1,0 +1,16 @@
+C:\Users\João Edson\Documents\Facul FTT\programação orientada em objeto\exercicio_01_2022\obj\Debug\net5.0\exercicio_01_2022.csprojAssemblyReference.cache
+C:\Users\João Edson\Documents\Facul FTT\programação orientada em objeto\exercicio_01_2022\obj\Debug\net5.0\exercicio_01_2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Edson\Documents\Facul FTT\programação orientada em objeto\exercicio_01_2022\obj\Debug\net5.0\exercicio_01_2022.AssemblyInfoInputs.cache
+C:\Users\João Edson\Documents\Facul FTT\programação orientada em objeto\exercicio_01_2022\obj\Debug\net5.0\exercicio_01_2022.AssemblyInfo.cs
+C:\Users\João Edson\Documents\Facul FTT\programação orientada em objeto\exercicio_01_2022\obj\Debug\net5.0\exercicio_01_2022.csproj.CoreCompileInputs.cache
+C:\Users\João Edson\Documents\Facul FTT\programação orientada em objeto\exercicio_01_2022\bin\Debug\net5.0\exercicio_01_2022.exe
+C:\Users\João Edson\Documents\Facul FTT\programação orientada em objeto\exercicio_01_2022\bin\Debug\net5.0\exercicio_01_2022.deps.json
+C:\Users\João Edson\Documents\Facul FTT\programação orientada em objeto\exercicio_01_2022\bin\Debug\net5.0\exercicio_01_2022.runtimeconfig.json
+C:\Users\João Edson\Documents\Facul FTT\programação orientada em objeto\exercicio_01_2022\bin\Debug\net5.0\exercicio_01_2022.runtimeconfig.dev.json
+C:\Users\João Edson\Documents\Facul FTT\programação orientada em objeto\exercicio_01_2022\bin\Debug\net5.0\exercicio_01_2022.dll
+C:\Users\João Edson\Documents\Facul FTT\programação orientada em objeto\exercicio_01_2022\bin\Debug\net5.0\ref\exercicio_01_2022.dll
+C:\Users\João Edson\Documents\Facul FTT\programação orientada em objeto\exercicio_01_2022\bin\Debug\net5.0\exercicio_01_2022.pdb
+C:\Users\João Edson\Documents\Facul FTT\programação orientada em objeto\exercicio_01_2022\obj\Debug\net5.0\exercicio_01_2022.dll
+C:\Users\João Edson\Documents\Facul FTT\programação orientada em objeto\exercicio_01_2022\obj\Debug\net5.0\ref\exercicio_01_2022.dll
+C:\Users\João Edson\Documents\Facul FTT\programação orientada em objeto\exercicio_01_2022\obj\Debug\net5.0\exercicio_01_2022.pdb
+C:\Users\João Edson\Documents\Facul FTT\programação orientada em objeto\exercicio_01_2022\obj\Debug\net5.0\exercicio_01_2022.genruntimeconfig.cache

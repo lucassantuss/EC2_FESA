@@ -1,0 +1,16 @@
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\Desafio_dos_números - ALG 2\bin\Debug\net5.0\Desafio_dos_números - ALG 2.exe
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\Desafio_dos_números - ALG 2\bin\Debug\net5.0\Desafio_dos_números - ALG 2.deps.json
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\Desafio_dos_números - ALG 2\bin\Debug\net5.0\Desafio_dos_números - ALG 2.runtimeconfig.json
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\Desafio_dos_números - ALG 2\bin\Debug\net5.0\Desafio_dos_números - ALG 2.runtimeconfig.dev.json
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\Desafio_dos_números - ALG 2\bin\Debug\net5.0\Desafio_dos_números - ALG 2.dll
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\Desafio_dos_números - ALG 2\bin\Debug\net5.0\ref\Desafio_dos_números - ALG 2.dll
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\Desafio_dos_números - ALG 2\bin\Debug\net5.0\Desafio_dos_números - ALG 2.pdb
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\Desafio_dos_números - ALG 2\obj\Debug\net5.0\Desafio_dos_números - ALG 2.csprojAssemblyReference.cache
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\Desafio_dos_números - ALG 2\obj\Debug\net5.0\Desafio_dos_números - ALG 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\Desafio_dos_números - ALG 2\obj\Debug\net5.0\Desafio_dos_números - ALG 2.AssemblyInfoInputs.cache
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\Desafio_dos_números - ALG 2\obj\Debug\net5.0\Desafio_dos_números - ALG 2.AssemblyInfo.cs
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\Desafio_dos_números - ALG 2\obj\Debug\net5.0\Desafio_dos_números - ALG 2.csproj.CoreCompileInputs.cache
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\Desafio_dos_números - ALG 2\obj\Debug\net5.0\Desafio_dos_números - ALG 2.dll
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\Desafio_dos_números - ALG 2\obj\Debug\net5.0\ref\Desafio_dos_números - ALG 2.dll
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\Desafio_dos_números - ALG 2\obj\Debug\net5.0\Desafio_dos_números - ALG 2.pdb
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\Desafio_dos_números - ALG 2\obj\Debug\net5.0\Desafio_dos_números - ALG 2.genruntimeconfig.cache

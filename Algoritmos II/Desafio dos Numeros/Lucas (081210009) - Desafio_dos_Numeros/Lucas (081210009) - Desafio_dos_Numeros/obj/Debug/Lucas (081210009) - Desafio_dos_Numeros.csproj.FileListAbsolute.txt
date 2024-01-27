@@ -1,0 +1,14 @@
+D:\Escola\FTT\EC2\Algoritmos II\Códigos C#\N1\Lucas (081210009) - Desafio_dos_Numeros\Lucas (081210009) - Desafio_dos_Numeros\obj\Debug\Lucas (081210009) - Desafio_dos_Numeros.csprojAssemblyReference.cache
+D:\Escola\FTT\EC2\Algoritmos II\Códigos C#\N1\Lucas (081210009) - Desafio_dos_Numeros\Lucas (081210009) - Desafio_dos_Numeros\obj\Debug\Lucas (081210009) - Desafio_dos_Numeros.csproj.CoreCompileInputs.cache
+D:\Escola\FTT\EC2\Algoritmos II\Códigos C#\N1\Lucas (081210009) - Desafio_dos_Numeros\Lucas (081210009) - Desafio_dos_Numeros\bin\Debug\Lucas (081210009) - Desafio_dos_Numeros.exe.config
+D:\Escola\FTT\EC2\Algoritmos II\Códigos C#\N1\Lucas (081210009) - Desafio_dos_Numeros\Lucas (081210009) - Desafio_dos_Numeros\bin\Debug\Lucas (081210009) - Desafio_dos_Numeros.exe
+D:\Escola\FTT\EC2\Algoritmos II\Códigos C#\N1\Lucas (081210009) - Desafio_dos_Numeros\Lucas (081210009) - Desafio_dos_Numeros\bin\Debug\Lucas (081210009) - Desafio_dos_Numeros.pdb
+D:\Escola\FTT\EC2\Algoritmos II\Códigos C#\N1\Lucas (081210009) - Desafio_dos_Numeros\Lucas (081210009) - Desafio_dos_Numeros\obj\Debug\Lucas (081210009) - Desafio_dos_Numeros.exe
+D:\Escola\FTT\EC2\Algoritmos II\Códigos C#\N1\Lucas (081210009) - Desafio_dos_Numeros\Lucas (081210009) - Desafio_dos_Numeros\obj\Debug\Lucas (081210009) - Desafio_dos_Numeros.pdb
+C:\Users\Lucas\3D Objects\Arquivos baixado - Escola\Lucas (081210009) - Desafio_dos_Numeros\Lucas (081210009) - Desafio_dos_Numeros\bin\Debug\Lucas (081210009) - Desafio_dos_Numeros.exe.config
+C:\Users\Lucas\3D Objects\Arquivos baixado - Escola\Lucas (081210009) - Desafio_dos_Numeros\Lucas (081210009) - Desafio_dos_Numeros\bin\Debug\Lucas (081210009) - Desafio_dos_Numeros.exe
+C:\Users\Lucas\3D Objects\Arquivos baixado - Escola\Lucas (081210009) - Desafio_dos_Numeros\Lucas (081210009) - Desafio_dos_Numeros\bin\Debug\Lucas (081210009) - Desafio_dos_Numeros.pdb
+C:\Users\Lucas\3D Objects\Arquivos baixado - Escola\Lucas (081210009) - Desafio_dos_Numeros\Lucas (081210009) - Desafio_dos_Numeros\obj\Debug\Lucas (081210009) - Desafio_dos_Numeros.csprojAssemblyReference.cache
+C:\Users\Lucas\3D Objects\Arquivos baixado - Escola\Lucas (081210009) - Desafio_dos_Numeros\Lucas (081210009) - Desafio_dos_Numeros\obj\Debug\Lucas (081210009) - Desafio_dos_Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\3D Objects\Arquivos baixado - Escola\Lucas (081210009) - Desafio_dos_Numeros\Lucas (081210009) - Desafio_dos_Numeros\obj\Debug\Lucas (081210009) - Desafio_dos_Numeros.exe
+C:\Users\Lucas\3D Objects\Arquivos baixado - Escola\Lucas (081210009) - Desafio_dos_Numeros\Lucas (081210009) - Desafio_dos_Numeros\obj\Debug\Lucas (081210009) - Desafio_dos_Numeros.pdb

@@ -1,0 +1,14 @@
+C:\Users\Lucas\Desktop\N1 - Algoritmos\Ex4_N1\Ex4_N1\bin\Debug\Ex4_N1.exe.config
+C:\Users\Lucas\Desktop\N1 - Algoritmos\Ex4_N1\Ex4_N1\bin\Debug\Ex4_N1.exe
+C:\Users\Lucas\Desktop\N1 - Algoritmos\Ex4_N1\Ex4_N1\bin\Debug\Ex4_N1.pdb
+C:\Users\Lucas\Desktop\N1 - Algoritmos\Ex4_N1\Ex4_N1\obj\Debug\Ex4_N1.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\N1 - Algoritmos\Ex4_N1\Ex4_N1\obj\Debug\Ex4_N1.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\N1 - Algoritmos\Ex4_N1\Ex4_N1\obj\Debug\Ex4_N1.exe
+C:\Users\Lucas\Desktop\N1 - Algoritmos\Ex4_N1\Ex4_N1\obj\Debug\Ex4_N1.pdb
+C:\Users\Lucas\3D Objects\Arquivos baixado - Escola\ALGORITMOS\N1\Guilherme, Lucas - N1 - Algoritmos\Ex4_N1\Ex4_N1\bin\Debug\Ex4_N1.exe.config
+C:\Users\Lucas\3D Objects\Arquivos baixado - Escola\ALGORITMOS\N1\Guilherme, Lucas - N1 - Algoritmos\Ex4_N1\Ex4_N1\bin\Debug\Ex4_N1.exe
+C:\Users\Lucas\3D Objects\Arquivos baixado - Escola\ALGORITMOS\N1\Guilherme, Lucas - N1 - Algoritmos\Ex4_N1\Ex4_N1\bin\Debug\Ex4_N1.pdb
+C:\Users\Lucas\3D Objects\Arquivos baixado - Escola\ALGORITMOS\N1\Guilherme, Lucas - N1 - Algoritmos\Ex4_N1\Ex4_N1\obj\Debug\Ex4_N1.csprojAssemblyReference.cache
+C:\Users\Lucas\3D Objects\Arquivos baixado - Escola\ALGORITMOS\N1\Guilherme, Lucas - N1 - Algoritmos\Ex4_N1\Ex4_N1\obj\Debug\Ex4_N1.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\3D Objects\Arquivos baixado - Escola\ALGORITMOS\N1\Guilherme, Lucas - N1 - Algoritmos\Ex4_N1\Ex4_N1\obj\Debug\Ex4_N1.exe
+C:\Users\Lucas\3D Objects\Arquivos baixado - Escola\ALGORITMOS\N1\Guilherme, Lucas - N1 - Algoritmos\Ex4_N1\Ex4_N1\obj\Debug\Ex4_N1.pdb

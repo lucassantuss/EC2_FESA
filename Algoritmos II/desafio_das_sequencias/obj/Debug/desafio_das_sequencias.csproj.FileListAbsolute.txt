@@ -1,0 +1,7 @@
+C:\Users\Guilherme\source\repos\Aula de Algoritmos - Visual Studio\desafio_das_sequencias\bin\Debug\desafio_das_sequencias.exe.config
+C:\Users\Guilherme\source\repos\Aula de Algoritmos - Visual Studio\desafio_das_sequencias\bin\Debug\desafio_das_sequencias.exe
+C:\Users\Guilherme\source\repos\Aula de Algoritmos - Visual Studio\desafio_das_sequencias\bin\Debug\desafio_das_sequencias.pdb
+C:\Users\Guilherme\source\repos\Aula de Algoritmos - Visual Studio\desafio_das_sequencias\obj\Debug\desafio_das_sequencias.csprojAssemblyReference.cache
+C:\Users\Guilherme\source\repos\Aula de Algoritmos - Visual Studio\desafio_das_sequencias\obj\Debug\desafio_das_sequencias.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\repos\Aula de Algoritmos - Visual Studio\desafio_das_sequencias\obj\Debug\desafio_das_sequencias.exe
+C:\Users\Guilherme\source\repos\Aula de Algoritmos - Visual Studio\desafio_das_sequencias\obj\Debug\desafio_das_sequencias.pdb

@@ -1,0 +1,16 @@
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\DESAFIO SEQUÊNCIA\bin\Debug\net5.0\DESAFIO SEQUÊNCIA.exe
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\DESAFIO SEQUÊNCIA\bin\Debug\net5.0\DESAFIO SEQUÊNCIA.deps.json
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\DESAFIO SEQUÊNCIA\bin\Debug\net5.0\DESAFIO SEQUÊNCIA.runtimeconfig.json
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\DESAFIO SEQUÊNCIA\bin\Debug\net5.0\DESAFIO SEQUÊNCIA.runtimeconfig.dev.json
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\DESAFIO SEQUÊNCIA\bin\Debug\net5.0\DESAFIO SEQUÊNCIA.dll
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\DESAFIO SEQUÊNCIA\bin\Debug\net5.0\ref\DESAFIO SEQUÊNCIA.dll
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\DESAFIO SEQUÊNCIA\bin\Debug\net5.0\DESAFIO SEQUÊNCIA.pdb
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\DESAFIO SEQUÊNCIA\obj\Debug\net5.0\DESAFIO SEQUÊNCIA.csprojAssemblyReference.cache
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\DESAFIO SEQUÊNCIA\obj\Debug\net5.0\DESAFIO SEQUÊNCIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\DESAFIO SEQUÊNCIA\obj\Debug\net5.0\DESAFIO SEQUÊNCIA.AssemblyInfoInputs.cache
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\DESAFIO SEQUÊNCIA\obj\Debug\net5.0\DESAFIO SEQUÊNCIA.AssemblyInfo.cs
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\DESAFIO SEQUÊNCIA\obj\Debug\net5.0\DESAFIO SEQUÊNCIA.csproj.CoreCompileInputs.cache
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\DESAFIO SEQUÊNCIA\obj\Debug\net5.0\DESAFIO SEQUÊNCIA.dll
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\DESAFIO SEQUÊNCIA\obj\Debug\net5.0\ref\DESAFIO SEQUÊNCIA.dll
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\DESAFIO SEQUÊNCIA\obj\Debug\net5.0\DESAFIO SEQUÊNCIA.pdb
+C:\MEUS DOCUMENTOS\Algoritmos 2 - Exercícios\DESAFIO SEQUÊNCIA\obj\Debug\net5.0\DESAFIO SEQUÊNCIA.genruntimeconfig.cache
